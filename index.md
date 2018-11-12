@@ -1,8 +1,7 @@
 # Duo 3.0 Example Sentence
 
-<details>
-<summary>Select Section</summary>
-<div>
+<details><summary>Select Section</summary><div>
+
 
 [Section01](#Section01) [Section02](#Section02)  
 [Section03](#Section03) [Section04](#Section04)  
