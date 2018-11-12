@@ -30,15 +30,16 @@ He leaned against the pillar and gazed at the Statue of Liberty.
 A woman passed by me giving off a subtle scent of perfume. It reminded me of my ex-girlfriend.
 > 香水のほのかな香りを漂わせながら、一人の女性が僕の前を通り過ぎた。前の彼女のことを思い出してしまった。
 
-### 008  
-"Natto" smells awful but tastes terrific.
+### 008
+#### "Natto" smells awful but tastes terrific.
 > 納豆は臭いはひどいけれど味は最高。
 
-### 009  
-"I'm soaked with sweat." "Stand back! You stink. Take a shower."
+### 009
+#### "I'm soaked with sweat." "Stand back! You stink. Take a shower."
 > 「汗でびしょぬれだよ。」 「来ないで！くさいわ。シャワーを浴びて。」
 
 ## Section 02
 
-### 010  Bob was so beside himself that he could scarcely tell fact from fiction.
+### 010  
+#### Bob was so beside himself that he could scarcely tell fact from fiction.
 > ボブはひどく取り乱していて、現実と虚構の区別がほとんどできなかった。
