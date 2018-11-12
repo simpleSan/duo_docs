@@ -1,5 +1,5 @@
 # Duo 3.0 Example Sentence
-
+<a name="TopPage"></a>
 <details><summary>Select Section</summary>
 <a href="#Section01">Section01</a> <a href="#Section02">Section02</a> <a href="#Section03">Section03</a><br>
 <a href="#Section04">Section04</a> <a href="#Section05">Section05</a> <a href="#Section06">Section06</a><br>
@@ -21,6 +21,7 @@
   
 <a name="Section01"></a>
 ## Section 01
+[TOP](#TopPage)
   
 #### 001
 ### We must respect the will of the individual.
@@ -61,6 +62,7 @@
   
 <a name="Section02"></a>
 ## Section 02
+[TOP](#TopPage)
   
 #### 010
 ### Bob was so beside himself that he could scarcely tell fact from fiction.
@@ -113,6 +115,7 @@
   
 <a name="Section03"></a>
 ## Section03
+[TOP](#TopPage)
   
 #### 022
 ### I begged Richie to lend me a hundred bucks, but he shook his head, saying, "I'm broke, too."
@@ -172,6 +175,7 @@
   
 <a name="#Section04"></a>
 ## Section04
+[TOP](#TopPage)
   
 #### 036
 ### The power plant supplies the remote county with electricity.
@@ -215,6 +219,7 @@
   
 <a name="#Section05"></a>
 ## Section05
+[TOP](#TopPage)
   
 #### 046
 ### They are entitled to be compensated for their injuries.
@@ -286,6 +291,7 @@
   
 <a name="#Section06"></a>
 ## Section06
+[TOP](#TopPage)
   
 #### 063
 ### "Anything else?" "That's it." "For here or to go?" "To go."
@@ -341,6 +347,7 @@
   
 <a name="#Section07"></a>
 ## Section07
+[TOP](#TopPage)
   
 #### 076
 ### The chairman cut me off, saying, "Time to wind things up. Let's take a vote."
@@ -408,6 +415,7 @@
   
 <a name="#Section08"></a>
 ## Section08
+[TOP](#TopPage)
   
 #### 092
 ### Bringing flammable items into the cabin is prohibited.
