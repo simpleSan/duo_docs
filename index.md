@@ -1,5 +1,6 @@
-# Duo 3.0 Example Sentence
 <a name="TopPage"></a>
+# Duo 3.0 Example Sentence
+  
 <details><summary>Select Section</summary>
 <a href="#Section01">Section01</a> <a href="#Section02">Section02</a> <a href="#Section03">Section03</a><br>
 <a href="#Section04">Section04</a> <a href="#Section05">Section05</a> <a href="#Section06">Section06</a><br>
@@ -173,7 +174,7 @@
 ### In all likelihood, the birthrate will continue to decline steadily for years to come.
 > ほぼ間違いなくこの先数年、出生率は減少の一途をたどるだろう。
   
-<a name="#Section04"></a>
+<a name="Section04"></a>
 ## Section04
 [TOP](#TopPage)
   
@@ -217,7 +218,7 @@
 ### The lawyer recommended that his client take legal action against the insurance company.
 > 弁護士は依頼人に、保険会社に対して法的手段を取る事を勧めた。
   
-<a name="#Section05"></a>
+<a name="Section05"></a>
 ## Section05
 [TOP](#TopPage)
   
@@ -289,7 +290,7 @@
 ### "This is fake, isn't it?" "Hey, it's a genuine antique." "No way!"
 > 「これって偽物だろう？」 「何言ってるの。本物の骨蓮品よ。」 「まさか！」
   
-<a name="#Section06"></a>
+<a name="Section06"></a>
 ## Section06
 [TOP](#TopPage)
   
@@ -345,7 +346,7 @@
 ### Now that I've found that there's no one to turn to, I'll have to stand on my own two feet.
 > 誰も頼れる人がいないとわかったのだから、自分の力でやっていくしかない。
   
-<a name="#Section07"></a>
+<a name="Section07"></a>
 ## Section07
 [TOP](#TopPage)
   
@@ -413,7 +414,7 @@
 ### Without your solid support, the deal would have fallen through. I'm grateful to you.
 > あなたの強固な支援がなかったら、その取引は成立しなかったでしょう。感謝しています。
   
-<a name="#Section08"></a>
+<a name="Section08"></a>
 ## Section08
 [TOP](#TopPage)
   
