@@ -358,3 +358,70 @@
 ### The chairman cut me off, saying, "Time to wind things up. Let's take a vote."
 > 議長は私の話を遮って、「話し合いはここまでにして決を採りましょう。」と言った。
   
+#### 077
+### We exchanged frank opinions in the meeting, but consensus is yet to be reached regarding this matter.
+> 我々は会議で率直な意見を交わしたが、この件に関してはまだ全体の意見がまとまらない。
+  
+#### 078
+### "Do you agree or disagree with him?" "I'm on his side."
+> 「あなたは彼と同じ意見？ それとも違うの？」「彼のほうを支持するよ。」
+  
+#### 079
+### Strictly speaking, his view differs somewhat from mine.
+> 厳密に言えば、彼の見解は私のものとはいくらか異なる。
+  
+#### 080
+### Could you go over it again? I couldn't make out what you were getting at.
+> もう一度詳しく説明していただけませんか？ お話の意図がわかりませんでした。
+  
+#### 081
+### No one backed me up at first, but eventually I talked everyone into going along with my plan.
+> 僕の案を支持してくれる人は最初は誰もいなかったけれど、最後にはみんなを説得して賛同してもらうことができた。
+  
+#### 082
+### "I admire your perseverance, courage and wisdom." "You flatter me!"
+> 「君の不屈の努力、勇気、そして知恵には感心するよ。」「お世辞でもうれしいわ！」
+  
+#### 083
+### In making a decision, I rely not on logic but on instinct.
+> どうするかを決めるとき、僕は論理ではなく本能に従う。
+  
+#### 084
+### He came up with an ingenious, sensible solution and immediately put it into practice.
+> 彼は独創的かつ賢明な解決策を考え出し、直ちにそれを実行に移した。
+  
+#### 085
+### From an objective viewpoint, the former is inferior to the latter.
+> 客観的に見れば、前者は後者よりも劣っている。
+  
+#### 086
+### Your idea sounds marvelous in theory, yet I don't think it will work in practice.
+> あなたの考えは理論上はすばらしそうだけれども、実際には機能しないと思います。
+  
+#### 087
+### We expected him to defeat his opponent, but he failed to live up to our expectations.
+> 私たちは彼が相手に勝つことを期待したが、彼はその期待に応えられなかった。
+  
+#### 088
+### Ironically, despite their best endeavors, their mission resulted in complete failure.
+> 皮肉なことだが、彼らの最善の努力にもかかわらず、任務は完全な失敗に終わった。
+  
+#### 089
+### Her genius makes up for her lack of firsthand experience.
+> 実地経験の不足は彼女の天賦の才能で補える。
+
+#### 090
+### She possesses a great capacity for overcoming any obstacle.
+> 彼女にはどんな障害をも克服できるすばらしい能力がある。
+  
+#### 091
+### Without your solid support, the deal would have fallen through. I'm grateful to you.
+> あなたの強固な支援がなかったら、その取引は成立しなかったでしょう。感謝しています。
+  
+<a name="#Section08"></a>
+## Section08
+  
+#### 092
+### Bringing flammable items into the cabin is prohibited.
+> 機内への可燃物の持ち込みは禁止されています。
+  
