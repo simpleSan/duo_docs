@@ -30,7 +30,7 @@
   
 <a name="Section01"></a>
 ## Section 01
-
+  
 #### 001
 ### We must respect the will of the individual.
 > 個人の意志は尊重しなければいけない。
@@ -70,7 +70,7 @@
   
 <a name="Section02"></a>
 ## Section 02
-
+  
 #### 010
 ### Bob was so beside himself that he could scarcely tell fact from fiction.
 > ボブはひどく取り乱していて、現実と虚構の区別がほとんどできなかった。
@@ -122,7 +122,7 @@
   
 <a name="Section03"></a>
 ## Section03
-
+  
 #### 022
 ### I begged Richie to lend me a hundred bucks, but he shook his head, saying, "I'm broke, too."
 > 100ドル貸してくれとリッチーに頼んだら、彼は「俺もお金がないんだよ！」と言って首を横に振った。
@@ -136,4 +136,49 @@
 > 実際のところ、普通の人々にはそんな贅沢品を購入する余裕はない。
   
 #### 025
-### 
+### As we anticipated, the unemployment rate has risen three quarters in a row.
+> 予期していたとおり、失業率は3四半期連続で上昇した。
+  
+#### 026
+### I have to cut down on my expenses, so from now on, I'm going to keep track of them on a daily basis.
+> 出費を切り詰めないと。だから、これからは使ったお金は一日単位で記録していくつもりだ。
+  
+#### 027
+### In any case, the union has to compromise to a certain extent.
+> いずれにせよ、組合側はある程度妥協しなければならない。
+  
+#### 028
+### Competent mechanics are in great demand, so they earn decent wages.
+> 有能な整備士は引っ張りだこだから、なかなかの賃金を稼げる。
+  
+#### 029
+### The president announced a concrete plan to carry out welfare reform.
+> 大統領は福祉改革を実行するための具体的な計画を発表した。
+  
+#### 030
+### His policy will no doubt lead to dismal consequences. It needs a thorough review.
+> 彼の政策はきっと暗い結果を招くだろう。徹底的な見直しが必要だ。
+  
+#### 031
+### It goes without saying that the aging of society is inevitable.
+> 社会の高齢化が避けられないことは言うまでもない。
+  
+#### 032
+### Please take a look at this chart. It indicates that juvenile delinquency is on the increase at an alarming rate.
+> この表をご覧になってください。少年非行が深刻な割合で増加していることを示しています。
+  
+#### 033
+### In many business districts, there are a lot of vacant lots which have been for sale for years.
+> 多くの商業地区では、数年間売りに出されている空き地がたくさんある。
+  
+#### 034
+### The population density in the metropolis is gradually decreasing.
+> 大都市の人口密度が徐々に低下している。
+  
+#### 035
+### In all likelihood, the birthrate will continue to decline steadily for years to come.
+> ほぼ間違いなくこの先数年、出生率は減少の一途をたどるだろう。
+  
+<a name="#Section04"></a>
+## Section04
+  
