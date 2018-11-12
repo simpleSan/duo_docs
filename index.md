@@ -27,9 +27,10 @@
 <a href="#Section045">Section045</a>
 </div></details>
   
+  
+<a name="Section01"></a>
 ## Section 01
 
-<a name="Section01"></a>
 #### 001
 ### We must respect the will of the individual.
 > 個人の意志は尊重しなければいけない。
@@ -66,10 +67,63 @@
 ### "I'm soaked with sweat." "Stand back! You stink. Take a shower."
 > 「汗でびしょぬれだよ。」 「来ないで！くさいわ。シャワーを浴びて。」
   
+  
 <a name="Section02"></a>
 ## Section 02
 
 #### 010
 ### Bob was so beside himself that he could scarcely tell fact from fiction.
 > ボブはひどく取り乱していて、現実と虚構の区別がほとんどできなかった。
+  
+#### 011
+### His new nobel, which combines prose with his gift for poetry, is going to be published.
+> まもなく出版になる彼の小説は、散文に彼の詩の才能を融合させたものだ。
+  
+#### 012
+### An up-to-date edition of the encyclopedia will come out next month.
+> 来月、その百科事典の最新版が出る。
+  
+#### 013
+### Ms. Yamada translated the fascinating fairy tale into plain Japanese.
+> 山田さんがその心ひかれるおとぎ話をやさしい日本語に翻訳した。
+  
+#### 014
+### The following passage is quoted from a well-known fable.
+> 以下の一説は有名な寓話からの引用です。
+  
+#### 015
+### Are you familiar with contemporary literature? "I know next to nothing about it."
+> 「現代文学に詳しいですか？」 「ほとんど知りません。」
+  
+#### 016
+### At times I confuse "curve" with "carve."
+> 時々、"curve"と"carve"を混同してしまう。
+  
+#### 017
+### Don't be shy. Your pronunciation is more or less correct.
+> 恥ずかしがらないで。あなたの発音はだいたい合っています。
+  
+#### 018
+### This article contains tips for those who are eager to increase their vocabulary.
+> この記事には語彙を本気で増やしたいと思う人々に役立つ情報が含まれています。
+  
+#### 019
+### His latest works are on display at the city hall. They are fabulous beyond description.
+> 彼の最新の作品が市庁舎で展示されているの｡言葉にできないほど素敵よ。
+  
+#### 020
+### Could you move over a little? "Oh, sorry. I didn't realize I was taking up so much space."
+> 「少し詰めていただけませんか？」「あ、ごめんなさい。こんなに 場所を取っていたなんて気付きませんでした｡」
+  
+#### 021
+### "What's this ugly object?" "This is a piece of abstract art!"
+> 「この不格好な物体は何？」 「これは抽象芸術の作品だよ！」
+  
+  
+<a name="Section03"></a>
+## Section03
+
+### 022
+### I begged Richie to lend me a hundred bucks, but he shook his head, saying, "I'm broke, too."
+> 100ドル貸してくれとリッチーに頼んだら、彼は「俺もお金がないんだよ！」と言って首を横に振った。
   
