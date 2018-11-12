@@ -1,6 +1,6 @@
 #Duo 3.0 Example Sentence
 
-##<details><summary>Select Section</summary>
+<details><summary>## Select Section</summary>
 [Section01](#Section01) [Section02](#Section02)  
 [Section03](#Section03) [Section04](#Section04)  
 [Section05](#Section05) [Section06](#Section06)  
