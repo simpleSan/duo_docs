@@ -1,6 +1,7 @@
 # Duo 3.0 Example Sentence
 
-<details><summary>Select Section</summary><div style="line-height:1.5em;font-size:1.1em">
+<details><summary>Select Section</summary><div>
+
 
 [Section01](#Section01) [Section02](#Section02)  
 [Section03](#Section03) [Section04](#Section04)  
@@ -25,6 +26,7 @@
 [Section041](#Section041) [Section042](#Section042)  
 [Section043](#Section043) [Section044](#Section044)  
 [Section045](#Section045)
+
 </div></details>
   
   
@@ -181,4 +183,177 @@
   
 <a name="#Section04"></a>
 ## Section04
+  
+#### 036
+### The power plant supplies the remote county with electricity.
+> その発電所は遠く離れた郡に電気を供給している。
+  
+#### 037
+### You are not allowed to operate this device without permission.
+> 許可なくこの装置を操作することはできません。
+  
+#### 038
+### In fact, the inhabitants have been exposed to radiation.
+> 実は、住民たちは放射能にさらされていた。
+  
+#### 039
+### One cannot emphasize too much the potential danger of nuclear energy.
+> 核エネルギーの潜在的な危険性は､いくら強調してもし過ぎるということはない。
+  
+#### 040
+### For years the press overlooked the problem. But now, if anything, they are making too much of it.
+> 過去数年間その問題を見過ごしていた報道機関が､今ではどちらかと言えばそのことを重視し過ぎている。
+  
+#### 041
+### As well as cultivating grain, the farmer runs a grocery store.
+> 穀物を栽培するだけでなく、その農業経営者は食料雑貨店も経営している。
+  
+#### 042
+### The research institute was established in the late 1960s.
+> その研究所は1960年代後半に設立された。
+  
+#### 043
+### Why don't you consult Starr in person? He's by far the most prominent attorney around here.
+> スターさんに直接相談したらどうですか？ この辺りでは文句なしでいちばん有名な弁護士ですよ。
+  
+#### 044
+### I'll write it down just in case, because I have a bad memory.
+> 念のためメモしておきます。記憶力が悪いから。
+  
+#### 045
+### The lawyer recommended that his client take legal action against the insurance company.
+> 弁護士は依頼人に、保険会社に対して法的手段を取る事を勧めた。
+  
+<a name="#Section05"></a>
+## Section05
+  
+#### 046
+### They are entitled to be compensated for their injuries.
+> 彼らには、けがに対する補償を受ける権利がある。
+   
+#### 047
+### So far, no less than 200 people have died of the flu epidemic.
+> インフルエンザの流行で、現在までに200人もの人が亡くなっている。
+  
+#### 048
+### The effect of those pills is intense but brief.
+> それらの錠剤の効果は強烈だが持続性はない。
+  
+#### 049
+### He has a habit of biting his nails. It's absolutely disgusting.
+> 彼は爪を噛む癖がある。あれには本当にぞっとするよ。
+  
+#### 050
+### My grandma strained her back when she bent down to hug my son.
+> うちの息子を抱こうとしてかがんだときに、おばあちゃんは腰を痛めた。
+  
+#### 051
+### If you have a stiff neck, try an herbal remedy.
+> 肩が凝るなら、薬草治療を試してごらんよ。
+  
+#### 052
+### Medical breakthroughs have brought about great benefits for humanity as a whole.
+> 医学の飛躍的発展は人類全体に多大な恩恵をもたらしてきた。
+  
+#### 053
+### We can't apply cloning techniques to cattle, let alone human beings. It's forbidden.
+> クローン技術は人間にはもちろん､牛にも応用してはいけない。 絶対にしてはならないことだ。
+  
+#### 054
+### Whales are classified as mammals.
+> 鯨は哺乳動物に分類される。
+  
+#### 055
+### The theory of evolution is beyond the reach of my imagination.
+> 進化論は私の想像力の範囲を超えている。
+  
+#### 056
+### The biologist is proud of his historic discovery and doesn't mind boasting about it.
+> その生物学者は自分の歴史的発見に誇りをもっており、そのことを臆することなく口に出す。
+  
+#### 057
+### On ethical grounds, they are opposed to so-called gene therapy.
+> 倫理的な理由から、彼らはいわゆる遺伝子治療に反対している。
+  
+#### 058
+### The initial symptoms of the disease are fever and a sore throat.
+> その病気の初期症状は高熱と喉の痛みです。
+  
+#### 059
+### The structure of the brain is complex.
+> 脳の構造は複雑だ。
+  
+#### 060
+### Owing to illness, some representatives were absent from the annual conference.
+> 病気のために年次会議を欠席した代表者もいた。
+  
+#### 061
+### Little by little, my son-in-law is recovering from stomach cancer, and now he is in good spirits.
+> 私の娘婿は徐々に胃癌を克服しつつあり、今は明るく元気だ。
+  
+#### 062
+### "This is fake, isn't it?" "Hey, it's a genuine antique." "No way!"
+> 「これって偽物だろう？」 「何言ってるの。本物の骨蓮品よ。」 「まさか！」
+  
+<a name="#Section06"></a>
+## Section06
+  
+#### 063
+### "Anything else?" "That's it." "For here or to go?" "To go."
+> 「ほかにご注文は?」「以上です。」「こちらでお召し上がりですか？」「持ち帰ります。」
+  
+#### 064
+### "How much is this rug?" "$100 including tax." "OK, I'll take it."
+> 「この敷物はおいくらですか?」「税込みで100ドルです。」「じゃあ、これにします。」
+  
+#### 065
+### I don't think those pants look good on you. Try these on. They're really in now!
+> そのパンツはあなたには似合わないと思う。こっちをはいてみて。今すごく流行っているのよ。
+  
+#### 066
+### He got out of the cab in haste, saying, "Keep the change."
+> 彼は「おつりは結構です。」と言って、急いでタクシーを降りた。
+  
+#### 067
+### Delivery service is available to our customers for a slight extra charge.
+> 当店のお客様は､わずかな追加料金で配達サービスをご利用できます。
+  
+#### 068
+### "It's on me." "No. You treat me every time we eat out." "Well, okay. Let's split the check then."
+> 「これは僕のおごり。」 「だめよ。外食のときはいつもおごってもらっていいるし。」 「うーん、わかった。じゃあ割り勘にしよう。」
+  
+#### 069
+### While I was hanging out at the mall, I ran into Ken.
+> ショッピングセンターをぶらぶらしていたら、偶然ケンに会った。
+  
+#### 070
+### I was short of cash, so I withdrew the $100 that I had deposited in my bank account last week.
+> 現金が足りなかったので、先週口座に入れた1000ドルを引き出した。
+  
+#### 071
+### On her way home she was robbed of her purse.
+> 彼女は帰宅途中にハンドバッグを盗まれた。
+  
+#### 072
+### "That's odd! Tell me how it happened." "I'll explain it to you later."
+> 「それは変だわ。どうしてそんなことが起きたのか教えて。」 「後で説明するよ。」
+  
+#### 073
+### My parents gave me a 6 pm curfew as a punishment because I broke my promise.
+> 私が約束を破ったので、罰として両親に門限を午後６時にされた。
+  
+#### 074
+### As the proverb goes, "The end justifies the means."
+> 諺にある通り、「嘘も方便 （目的が手段を正当化する）」。
+  
+#### 075
+### Now that I've found that there's no one to turn to, I'll have to stand on my own two feet.
+> 誰も頼れる人がいないとわかったのだから、自分の力でやっていくしかない。
+  
+<a name="#Section07"></a>
+## Section07
+  
+#### 076
+### The chairman cut me off, saying, "Time to wind things up. Let's take a vote."
+> 議長は私の話を遮って、「話し合いはここまでにして決を採りましょう。」と言った。
   
