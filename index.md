@@ -1,31 +1,21 @@
 # Duo 3.0 Example Sentence
 
 <details><summary>Select Section</summary>
-
-<a href="#Section01">Section01</a> <a href="#Section02">Section02</a>  
-<a href="#Section03">Section03</a> <a href="#Section04">Section04</a>  
-<a href="#Section05">Section05</a> <a href="#Section06">Section06</a>  
-<a href="#Section07">Section07</a> <a href="#Section08">Section08</a>  
-<a href="#Section09">Section09</a> <a href="#Section010">Section010</a>  
-<a href="#Section011">Section011</a> <a href="#Section012">Section012</a>  
-<a href="#Section013">Section013</a> <a href="#Section014">Section014</a>  
-<a href="#Section015">Section015</a> <a href="#Section016">Section016</a>  
-<a href="#Section017">Section017</a> <a href="#Section018">Section018</a>  
-<a href="#Section019">Section019</a> <a href="#Section020">Section020</a>  
-<a href="#Section021">Section021</a> <a href="#Section022">Section022</a>  
-<a href="#Section023">Section023</a> <a href="#Section024">Section024</a>  
-<a href="#Section025">Section025</a> <a href="#Section026">Section026</a>  
-<a href="#Section027">Section027</a> <a href="#Section028">Section028</a>  
-<a href="#Section029">Section029</a> <a href="#Section030">Section030</a>  
-<a href="#Section031">Section031</a> <a href="#Section032">Section032</a>  
-<a href="#Section033">Section033</a> <a href="#Section034">Section034</a>  
-<a href="#Section035">Section035</a> <a href="#Section036">Section036</a>  
-<a href="#Section037">Section037</a> <a href="#Section038">Section038</a>  
-<a href="#Section039">Section039</a> <a href="#Section040">Section040</a>  
-<a href="#Section041">Section041</a> <a href="#Section042">Section042</a>  
-<a href="#Section043">Section043</a> <a href="#Section044">Section044</a>  
-<a href="#Section045">Section045</a> 
-
+<a href="#Section01">Section01</a> <a href="#Section02">Section02</a> <a href="#Section03">Section03</a><br>
+<a href="#Section04">Section04</a> <a href="#Section05">Section05</a> <a href="#Section06">Section06</a><br>
+<a href="#Section07">Section07</a> <a href="#Section08">Section08</a> <a href="#Section09">Section09</a><br>
+<a href="#Section010">Section010</a> <a href="#Section011">Section011</a> <a href="#Section012">Section012</a><br>
+<a href="#Section013">Section013</a> <a href="#Section014">Section014</a> <a href="#Section015">Section015</a><br>
+<a href="#Section016">Section016</a> <a href="#Section017">Section017</a> <a href="#Section018">Section018</a><br>
+<a href="#Section019">Section019</a> <a href="#Section020">Section020</a> <a href="#Section021">Section021</a><br>
+<a href="#Section022">Section022</a> <a href="#Section023">Section023</a> <a href="#Section024">Section024</a><br>
+<a href="#Section025">Section025</a> <a href="#Section026">Section026</a> <a href="#Section027">Section027</a><br>
+<a href="#Section028">Section028</a> <a href="#Section029">Section029</a> <a href="#Section030">Section030</a><br>
+<a href="#Section031">Section031</a> <a href="#Section032">Section032</a> <a href="#Section033">Section033</a><br>
+<a href="#Section034">Section034</a> <a href="#Section035">Section035</a> <a href="#Section036">Section036</a><br>
+<a href="#Section037">Section037</a> <a href="#Section038">Section038</a> <a href="#Section039">Section039</a><br>
+<a href="#Section040">Section040</a> <a href="#Section041">Section041</a> <a href="#Section042">Section042</a><br>
+<a href="#Section043">Section043</a> <a href="#Section044">Section044</a> <a href="#Section045">Section045</a>
 </details>
   
   
