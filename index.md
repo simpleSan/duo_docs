@@ -2,29 +2,29 @@
 
 <details><summary>Select Section</summary><div style="line-height:1.5em;font-size:1.1em">
 
-<a href="#Section01">Section01</a> <a href="#Section02">Section02</a><br>
-<a href="#Section03">Section03</a> <a href="#Section04">Section04</a><br>
-<a href="#Section05">Section05</a> <a href="#Section06">Section06</a><br>
-<a href="#Section07">Section07</a> <a href="#Section08">Section08</a><br>
-<a href="#Section09">Section09</a> <a href="#Section010">Section010</a><br>
-<a href="#Section011">Section011</a> <a href="#Section012">Section012</a><br>
-<a href="#Section013">Section013</a> <a href="#Section014">Section014</a><br>
-<a href="#Section015">Section015</a> <a href="#Section016">Section016</a><br>
-<a href="#Section017">Section017</a> <a href="#Section018">Section018</a><br>
-<a href="#Section019">Section019</a> <a href="#Section020">Section020</a><br>
-<a href="#Section021">Section021</a> <a href="#Section022">Section022</a><br>
-<a href="#Section023">Section023</a> <a href="#Section024">Section024</a><br>
-<a href="#Section025">Section025</a> <a href="#Section026">Section026</a><br>
-<a href="#Section027">Section027</a> <a href="#Section028">Section028</a><br>
-<a href="#Section029">Section029</a> <a href="#Section030">Section030</a><br>
-<a href="#Section031">Section031</a> <a href="#Section032">Section032</a><br>
-<a href="#Section033">Section033</a> <a href="#Section034">Section034</a><br>
-<a href="#Section035">Section035</a> <a href="#Section036">Section036</a><br>
-<a href="#Section037">Section037</a> <a href="#Section038">Section038</a><br>
-<a href="#Section039">Section039</a> <a href="#Section040">Section040</a><br>
-<a href="#Section041">Section041</a> <a href="#Section042">Section042</a><br>
-<a href="#Section043">Section043</a> <a href="#Section044">Section044</a><br>
-<a href="#Section045">Section045</a>
+[Section01](#Section01) [Section02](#Section02)  
+[Section03](#Section03) [Section04](#Section04)  
+[Section05](#Section05) [Section06](#Section06)  
+[Section07](#Section07) [Section08](#Section08)  
+[Section09](#Section09) [Section010](#Section010)  
+[Section011](#Section011) [Section012](#Section012)  
+[Section013](#Section013) [Section014](#Section014)  
+[Section015](#Section015) [Section016](#Section016)  
+[Section017](#Section017) [Section018](#Section018)  
+[Section019](#Section019) [Section020](#Section020)  
+[Section021](#Section021) [Section022](#Section022)  
+[Section023](#Section023) [Section024](#Section024)  
+[Section025](#Section025) [Section026](#Section026)  
+[Section027](#Section027) [Section028](#Section028)  
+[Section029](#Section029) [Section030](#Section030)  
+[Section031](#Section031) [Section032](#Section032)  
+[Section033](#Section033) [Section034](#Section034)  
+[Section035](#Section035) [Section036](#Section036)  
+[Section037](#Section037) [Section038](#Section038)  
+[Section039](#Section039) [Section040](#Section040)  
+[Section041](#Section041) [Section042](#Section042)  
+[Section043](#Section043) [Section044](#Section044)  
+[Section045](#Section045)
 </div></details>
   
   
@@ -92,7 +92,7 @@
 > 以下の一説は有名な寓話からの引用です。
   
 #### 015
-### Are you familiar with contemporary literature? "I know next to nothing about it."
+### "Are you familiar with contemporary literature?" "I know next to nothing about it."
 > 「現代文学に詳しいですか？」 「ほとんど知りません。」
   
 #### 016
@@ -112,7 +112,7 @@
 > 彼の最新の作品が市庁舎で展示されているの｡言葉にできないほど素敵よ。
   
 #### 020
-### Could you move over a little? "Oh, sorry. I didn't realize I was taking up so much space."
+### "Could you move over a little?" "Oh, sorry. I didn't realize I was taking up so much space."
 > 「少し詰めていただけませんか？」「あ、ごめんなさい。こんなに 場所を取っていたなんて気付きませんでした｡」
   
 #### 021
@@ -123,7 +123,17 @@
 <a name="Section03"></a>
 ## Section03
 
-### 022
+#### 022
 ### I begged Richie to lend me a hundred bucks, but he shook his head, saying, "I'm broke, too."
 > 100ドル貸してくれとリッチーに頼んだら、彼は「俺もお金がないんだよ！」と言って首を横に振った。
   
+#### 023
+### "I'm apt to buy things on impulse whenever something is on sale." "So am I."
+> 「安売りをしているといつも衝動買いしてしまうたちです。」 「私も。」
+  
+#### 024
+### As it is, ordinary people cannot afford to purchase such luxuries.
+> 実際のところ、普通の人々にはそんな贅沢品を購入する余裕はない。
+  
+#### 025
+### 
