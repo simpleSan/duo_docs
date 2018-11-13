@@ -296,7 +296,7 @@
   
 #### 063
 ### "Anything else?" "That's it." "For here or to go?" "To go."
-> 「ほかにご注文は?」「以上です。」「こちらでお召し上がりですか？」「持ち帰ります。」
+> 「ほかにご注文は?」「以上です。」「こちらでお召し上がりですか？お持ち帰りですか？」「持ち帰ります。」
   
 #### 064
 ### "How much is this rug?" "$100 including tax." "OK, I'll take it."
@@ -883,1486 +883,1228 @@
 [TOP](#TopPage)
   
 #### 198
-### 
-> 
+### It occurred to me that he was holding something back, because he wouldn't look me in the eye.
+> 彼が私の目を見ようとしなかったので、何かを隠していると思った。
   
-
 #### 199
-### 
-> 
+### When her patience gave out, she grabbed his collar and swore at him.
+> 彼女は我慢しきれなくなり、襟首を掴んで彼をののしった。
   
-
 #### 200
-### 
-> 
+### I must admit we quarrel every now and then, but generally we're on good terms with each other.
+> 私たちは時々口げんかもすると認めますが、普段は仲良くやっています。
   
-
 #### 201
-### 
-> 
+### "Do you mind if I stop by your house?" "No, not at all. Be my guest!"
+> 「君の家に寄ってもいいかい？」「もちろんいいわよ。遠慮しないで！」
   
-
 #### 202
-### 
-> 
+### Hold on. I'll be right back. Don't hang up! (ON THE PHONE)
+> ちょっと待ってて。すぐ戻るから。切らないでよ！
   
-
 #### 203
-### 
-> 
+### I can't put you up. For one thing, my dad drops in on me from time to time.
+> うちには泊められないわ。一つには、時々お父さんがふらっとやってくるから。
   
-
 #### 204
-### 
-> 
+### While Jennifer was standing still, Bob was pacing back and forth along the sidewalk.
+> ジェニファーがじっと立っている間、ボブは歩道を行ったり来たりしていた。
   
-
 #### 205
-### 
-> 
+### "Let's make up, Lisa." "Stop taking me for granted! We're through for good this time. I mean it!"
+> 「仲直りしようよ、リサ。」「私がいて当然だなんて思わないで。私たち、今度は永遠に終わりよ。本気なんだから！」
   
-
 #### 206
-### 
-> 
+### Come on! Don't get so emotional, Lisa. I didn't mean to hurt you. Let's talk it over.
+> おい！リサ、そう感情的になるなよ。君を傷つけるつもりじゃなかったんだ。じっくり話し合おう。
   
-
 #### 207
-### 
-> 
+### "You betrayed me!" "Please forgive me. How can I make it up to you?" "I'll get even!"
+> 「私を裏切ったわね！」「許してくれよ。どうしたら埋め合わせができるかなあ？」「仕返ししてやるっ！」
   
-
 #### 208
-### 
-> 
+### You should confess your sins rather than conceal them.
+> 自分の罪は隠しておかずに告白した方がいい。
   
-
 #### 209
-### 
-> 
+### Keep your word. otherwise you'll end up losing face.
+> 約束は守りなさい。そうしないと評判を落としますよ。
   
-
 #### 210
-### 
-> 
+### Bob sticks to his moral principles and believes that honesty pays off in the long run.
+> ボブは自分の道徳的信条を曲げない男だ。正直でいれば最後には報われると信じている。
   
-
 #### 211
-### 
-> 
+### "Cheer up! You couldn't help it!" "I did my best." "I know. Don't dwell on the past. You can start over!"
+> 「元気を出して。仕方ないわ。」「ベストは尽くしたんだ。」「わかってる、過去のことにくよくよしないで。やり直せるわよ！」
   
 <a name="Section019"></a>
 ## Section019
 [TOP](#TopPage)
   
 #### 212
-### 
-> 
+### "Jane, please do me a favor and give me a ride to Times Square." "I wish I could, but I'm tied up right now."
+> 「ジェーン、タイムズ・スクエアまで乗せて行って欲しいんだけど。」「ちょっと無理かなぁ。今とても忙しいの。」
   
-
 #### 213
-### 
-> 
+### As usual, Mike turned up on time. He's very punctual.
+> いつものように、マイクは時間通りに現れた。本当に時間に正確な人だ。
   
-
 #### 214
-### 
-> 
+### The other day I ran out of gas in the middle of a busy Interstate.
+> この前、混雑した幹線道路の真ん中でガス欠(ガソリンを使い果たす)してしまった。
   
-
 #### 215
-### 
-> 
+### A truck driving ahead of me skidded, tuned over, and scattered its load all over the road.
+> 私の前を走っていたトラックがスリップして横転し、積荷を路面いっぱいに散乱させた。
   
-
 #### 216
-### 
-> 
+### He recalled that a collision had been avoided by sheer luck.
+> 衝突を避けられたのは運が良かっただけ、と彼は回想した。
   
-
 #### 217
-### 
-> 
+### In case of an emergency, get in touch with my agent right away.
+> 緊急の際には、すぐに私の代理人と連絡を取って下さい。
   
-
 #### 218
-### 
-> 
+### "Jane, where are we heading?" "I think we're lost. We went in the wrong direction." "Damn! Pull over!"
+> 「ジェーン、俺達はどこに向かってるんだ？」「迷ったみたい。違う方向に来ちゃったわ。」「何だよ。車を止めてくれ！」
   
-
 #### 219
-### 
-> 
+### My rusty Ford broke down, obstructing the intersection.
+> 僕の錆びついたフォードが故障して、交差点をふさいでしまった。
   
-
 #### 220
-### 
-> 
+### There are so many fine scratches and dents on its surface, it's no use polishing it.
+> 表面に細かい傷やへこみがたくさんあるから、磨いても無駄だよ。
   
-
 #### 221
-### 
-> 
+### "Hey, we're stuck in a traffic jam!" "Chill out, Joe. Let's take a shortcut! We'll get there in time."
+> 「おい、渋滞にはまっちゃったよ！」「冷静になって、ジョー。近道しましょう。時間までには着けるわ。」
   
-
 #### 222
-### 
-> 
+### "I've got a flat tire. Can you give me a hand?" "I'd be glad to."
+> 「パンクしちゃったよ。手を貸してくれる？」「喜んで。」
   
-
 #### 223
-### 
-> 
+### The ambulance went out of control and came close to running over a pedestrian.
+> 制御が効かなくなった救急車が、危うく歩行者をひきそうになった。
   
 <a name="Section020"></a>
 ## Section020
 [TOP](#TopPage)
   
 #### 224
-### 
-> 
+### He contends that primitive life once existed on Mars.
+> 火星にはかつて原始的な生物が存在していたと彼は力説している。
   
-
 #### 225
-### 
-> 
+### The crew is busy preparing for the voyage into outer space.
+> 乗組員たちは宇宙への航海の準備に忙しい。
   
-
 #### 226
-### 
-> 
+### They conducted a series of experiments under zero gravity.
+> 彼らは無重力状態で一連の実験を実施した。
   
-
 #### 227
-### 
-> 
+### Many astronomers assume that the universe will expand infinitely.
+> 多くの天文学者は、宇宙は無限に膨張を続けていくものだと考えている。
   
-
 #### 228
-### 
-> 
+### The astronauts were greeted with spontaneous applause.
+> 宇宙飛行士たちは自然と沸き起こった拍手で迎えられた。
   
-
 #### 229
-### 
-> 
+### A fund was set up with a view to preserving our endangered planet.
+> 滅亡の危機に瀕した地球を守るつもりで、ある基金が設立された。
   
-
 #### 230
-### 
-> 
+### The massive flood paralyzed the local transportation network.
+> 大洪水で現地の交通網が麻痺した。
   
-
 #### 231
-### 
-> 
+### The equator divides the globe into two hemispheres.
+> 赤道は地球を二つの半球に分ける。
   
-
 #### 232
-### 
-> 
+### I think it's cruel to trap animals for fur coats.
+> 毛皮のコートのために動物を罠で捕らえるのは残酷なことだ。
   
-
 #### 233
-### 
-> 
+### The organization plays a principal role in wildlife conservation.
+> その団体は野生動物の保護において、最も重要な役割を果たしている。
   
-
 #### 234
-### 
-> 
+### The organization plays a principal role in wildlife conservation.
+> 多くの弱い生物種が絶滅の寸前である。
   
-
 #### 235
-### 
-> 
+### The prolonged drought did severe damage to the crops.
+> 長引く干ばつが収穫にひどい被害をもたらした。
   
-
 #### 236
-### 
-> 
+### Tropical rain forests are quickly disappearing on a global scale. In part, it's due to asid rain.
+> 熱帯雨林の消滅が地球規模で急速に進んでいます。その原因の一つは酸性雨です。
   
-
 #### 237
-### 
-> 
+### It is said that global warming is directly related to carbon dioxide emissions.
+> 地球温暖化は、二酸化炭素の排出と直接の関係があると言われている。
   
-
 #### 238
-### 
-> 
+### The destruction of the ozone layer affects the environment.
+> オゾン層の破壊は環境に影響を及ぼす。
   
-
 #### 239
-### 
-> 
+### The committee called on all nations to work side by side to curb air pollution.
+> 委員会は、大気汚染を抑制するために互いに協力し合うよう各国に要請した。
   
-
 #### 240
-### 
-> 
+### A satellite was launched into orbit to monitor melting glaciers.
+> 溶け続ける氷河を監視するために、人工衛星が軌道に打ち上げられた。
   
 <a name="Section021"></a>
 ## Section021
 [TOP](#TopPage)
   
-#### 241
+#### 241The ecologist has warned us time and again that petroleum is not only a blessing but also a curse.
 ### 
-> 
+> 石油は天の恵みであると同時に災いのもとでもあると、その生態学者は我々に繰り返し警告してきた。
   
 
 #### 242
-### 
-> 
+### The continent is abundant in fossil fuels.
+> その大陸は化石燃料が豊富だ。
   
-
 #### 243
-### 
-> 
+### The region is relatively rich in mineral resources.
+> その地域は鉱物資源が比較的豊かだ。
   
-
 #### 244
-### 
-> 
+### Wheat accounts for approximately two-thirds of agricultural production in the area.
+> 小麦はこの地域の農業生産高のおよそ三分の二を占めている。
   
-
 #### 245
-### 
-> 
+### Fertile soil is indispensable for a good harvest.
+> 良い収穫を得るためには、肥沃な土壌が不可欠だ。
   
-
 #### 246
-### 
-> 
+### A humid climate is characteristic of the peninsula.
+> 湿気の多い気候はその半島の特色です。
   
-
 #### 247
-### 
-> 
+### The active volcano erupts at regular intervals.
+> その活火山は定期的に噴火する。
   
-
 #### 248
-### 
-> 
+### The Panama Canal connects the Atlantic with the Pacific.
+> パナマ運河は太平洋と大西洋をつないでいる。
   
-
 #### 249
-### 
-> 
+### The geographical features here are similar to those of our prefecture.
+> ここの地理的特徴は、私たちの県のそれと似ている。
   
-
 #### 250
-### 
-> 
+### More often than not, famine is accompanied by plague.
+> たいてい、飢饉になると疫病も発生する。
   
-
 #### 251
-### 
-> 
+### A devastating earthquake hit the state capital, leaving tens of thousands of residents homeless.
+> 壊滅的規模の地震が州都を襲い、何万もの住民が家が無い状態です。
   
-
 #### 252
-### 
-> 
+### "Watch out! The ceiling is giving way!"
+> 「気をつけろ！天井が崩れ落ちそうだぞ！」
   
-
 #### 253
-### 
-> 
+### The weather forecast says the typhoon is likely to accelerate and approach the coast.
+> 台風は速度を上げて沿岸に接近しそうだと天気予報では言っている。
   
-
 #### 254
-### 
-> 
+### "It's still up in the air whether the game will be called off or not." "So what? It makes no difference to me."
+> 「試合が中止になるかどうか、まだ決まらないんだ。」「それが何だって言うの？わたしにとってはどちらでも同じだわ（どうでもいいことだわ）。」
   
-
 #### 255
-### 
-> 
+### "It's foggy, isn't it?" "It sure is. But chances are it'll clear up later on."
+> 「霧が濃いね。」「本当ね。でも、たぶんこのあとは晴れるわ。」
   
 <a name="Section022"></a>
 ## Section022
 [TOP](#TopPage)
   
 #### 256
-### 
-> 
+### For the most part, modernization is identified with westernization.
+> ほとんどの場合、近代化は西欧化と同じものだと考えられている。
   
-
 #### 257
-### 
-> 
+### Urban culture appears to be attractive to many people, in particular, to younger people.
+> 都会の文化は多くの人々の目には魅力的に見える。とりわけ、若者にとっては。
   
-
 #### 258
-### 
-> 
+### "AI" stands for "artificial intelligence."
+> AIは人工知能の略です。
   
-
 #### 259
-### 
-> 
+### Household appliances are becoming more convenient day by day.
+> 家庭用の電化製品は日に日に便利になっている。
   
-
 #### 260
-### 
-> 
+### My income is not adequate to provide for my family of four, but we have to make the best of it.
+> 私の収入は4人家族を養うには十分でないけれども、それでなんとかやっていくしかない。
   
-
 #### 261
-### 
-> 
+### The popularity of a website depends on its content.
+> ホームページの人気は内容次第。
   
-
 #### 262
-### 
-> 
+### You've got to keep up with it. Once you fall behind, it's hard to catch up.
+> 遅れずについていかなくちゃ。いったん遅れをとったら追いつくのは大変だよ。
   
-
 #### 263
-### 
-> 
+### As technology rapidly advances, it's tough to keep pace with it.
+> 技術は急速に進歩するので、遅れずについていくのは大変だ。
   
-
 #### 264
-### 
-> 
+### More and more people are rushing to make use of the interactive nature of the medium.
+> ますます多くの人々が、その媒体の双方向的な性質を利用しようと焦っている。
   
-
 #### 265
-### 
-> 
+### Innovation has something to do with the ability to notice unusual phenomena.
+> 革新的なものを生み出すことは、普通ではない（変わった）現象を見逃さない能力と何らかの関係がある。
   
-
 #### 266
-### 
-> 
+### A bunch of other companies are imitating our excellent methods.
+> 多くの他社が我々の優れた方法を真似している。
   
-
 #### 267
-### 
-> 
+### The once desolate valley was transformed into a thriving hub of hi-tech business.
+> かつての荒涼とした盆地が、繁栄しているハイテクビジネスの中心地へと一変した。
   
-
 #### 268
-### 
-> 
+### Although there's still plenty of room for improvement, his invention is superior to conventional equipment in every respect.
+> まだ改善の余地はたくさんあるけれども、彼の発明品はあらゆる点で従来の機器よりも優れている。
   
-
 #### 269
-### 
-> 
+### The strength of the firm is attributed to its unique and future-oriented strategies.
+> その会社の強さは、他社にない未来指向の戦略によって生み出されている。
   
-
 #### 270
-### 
-> 
+### SONY has integrated a wide range of functions into this cool gadget. It's catching on from coast to coast.
+> SONYはこのスゴイ機器に多岐にわたる機能を統合させた。全米で流行ろうとしている商品だ。
   
-
 #### 271
-### 
-> 
+### This tool comes in handy, so I always keep it close at hand.
+> この道具は何かと便利だから、いつも手元に（すぐ近くに）置いています。
   
-
 #### 272
-### 
-> 
+### "In general, consumers prefer quantity to quality." "It's the other way around today."
+> 「一般的に、消費者は質よりも量を選びます。」「今は正反対です。」
   
 <a name="Section023"></a>
 ## Section023
 [TOP](#TopPage)
   
 #### 273
-### 
-> 
+### Obviously, the advertisement is aimed at teenagers.
+> 明らかにその広告は10代の若者層を狙いとしている。
   
-
 #### 274
-### 
-> 
+### The factory now under construction will assemble 1,000 VCR units per day.
+> 現在建設中のその工場は、一日あたり1000台のVCRユニットを組み立てることになる。
   
-
 #### 275
-### 
-> 
+### Efficient machinery replaced manual labor.
+> 効率的な機械が、肉体労働に取って代わった。
   
-
 #### 276
-### 
-> 
+### In those days, the gigantic corporation had a virtual monopoly over internal commerce.
+> 当時、その巨大企業が国内の商業を事実上独占していた。
   
-
 #### 277
-### 
-> 
+### With restrictions removed, thousands of new enterprises have come into being.
+> 制限が解除されたので、数千の新しい企業が誕生した。
   
-
 #### 278
-### 
-> 
+### As a result of his ridiculous venture, he is in danger of going bankrupt.
+> ばかげた新事業の結果、彼は倒産の危機に瀕している。
   
-
 #### 279
-### 
-> 
+### Compared to the previous year, business is looking up in terms of sales. However, we haven't made any profit yet.
+> 昨年と比べて、売上の数字だけ見れば（の点では）事業は上向いている。しかしながら、利益は全く得ていない。
   
-
 #### 280
-### 
-> 
+### "I'm going to be transferred to an overseas branch." "Oh, I'll miss you. Please drop me a line."
+> 「海外の支店に転勤することになったよ。」「えっ。寂しくなるわ。手紙でもくださいね。」
   
-
 #### 281
-### 
-> 
+### While he was away on business, his wife gave birth to a baby boy.
+> 彼が出張中に、奥さんが男の子の赤ちゃんを出産した。
   
 <a name="Section024"></a>
 ## Section024
 [TOP](#TopPage)
   
 #### 282
-### 
-> 
+### Apparently, Nick wasn't willing to take on the task because it would just add to his burdens.
+> どうやらニックは、自分の負担が増えるからその仕事を引き受けたくないようだ。
   
-
 #### 283
-### 
-> 
+### Bob had intended to take her out tonight, but he had to work overtime.
+> ボブは今夜、彼女とデートするつもりだったが、残業になってしまった。
   
-
 #### 284
-### 
-> 
+### "Please estimate the losses by Friday at the latest." "I'll manage it somehow."
+> 「遅くとも金曜日までには損失の見積もりを出してください。」「何とかやってみましょう。」
   
-
 #### 285
-### 
-> 
+### "Nick, I'm counting on you." "OK, I'll see to it." "Thanks, I appreciate it." "Don't mention it."
+> 「頼りにしてるわ、ニック。」「大丈夫、きちんとやっておきます。」「ありがとう。感謝するわ。」「いいんですよ（どういたしまして）」
   
-
 #### 286
-### 
-> 
+### He pretends to be enthusiastic when his boss is around.
+> 彼は上司がそばにいる時は熱心なふりをする。
   
-
 #### 287
-### 
-> 
+### He got promoted at the expense of his colleagues. He should be ashamed of himself.
+> 彼は同僚を踏み台（犠牲）にして出世した。恥を知るべきだ（恥ずかしく思うべきだ）。
   
-
 #### 288
-### 
-> 
+### As the recession set in, temporary employees were laid off one after another.
+> 景気後退が始まると、短期契約社員（臨時社員）たちは次々に一時解雇を言い渡された。
   
-
 #### 289
-### 
-> 
+### Nowadays, many people are out of work against their will. Who is responsible for that?
+> 最近では、多くの人々が職に就きたくても失業中である。誰の責任だろう？
   
-
 #### 290
-### 
-> 
+### I've gotten pessimistic, and I'm worried about something I would never have been concerned about before.
+> 私も悲観的になってきて、以前は決してきにならなかったことに不安を感じてきている。
   
-
 #### 291
-### 
-> 
+### Today, even white-collar workers are confronted with great hardships.
+> 今日では、サラリーマンでさえ大変な苦難に直面している。
   
-
 #### 292
-### 
-> 
+### The authorities are striving in vain to stabilize the currency.
+> 当局は通貨を安定させようと懸命だが、どうにもならない。（当局は無駄に通貨を安定させるために懸命に努力している）
   
-
 #### 293
-### 
-> 
+### We've come to the conclusion that nothing is more urgent than reducing Japan's huge deficit.
+> 日本の巨大な赤字を削減することが何よりも緊急を要することだ、という結論に至った。
   
 <a name="Section025"></a>
 ## Section025
 [TOP](#TopPage)
   
 #### 294
-### 
-> 
+### The questionnaires were distributed at random.
+> アンケート用紙が無作為に配布された。
   
-
 #### 295
-### 
-> 
+### All you have to do is fill in the blanks below (Please print in black or blue ink).
+> 以下の空欄部分にご記入いただくだけで結構です。（黒または青インクではっきりと書いてください）
   
-
 #### 296
-### 
-> 
+### In addition to a 10% discount, you can pick out an optional excursion for free.
+> 10%の割引に加えて、無料のオプションツアーを一つ選択できます。
   
-
 #### 297
-### 
-> 
+### Round-trip fares to each destination are as follows.
+> 各目的地までの往復料金は下記のとおりです。
   
-
 #### 298
-### 
-> 
+### "Don't forget to confirm your reservation in advance." "I won't."
+> 「事前に予約の確認をするのを忘れないでね。」「ええ。」
   
-
 #### 299
-### 
-> 
+### Be sure to check in at least 45 minutes prior to departure time.
+> 遅くとも出発時刻の45分前には搭乗手続きを必ず完了させてください。
   
-
 #### 300
-### 
-> 
+### I attached my name tag to my baggage, but it soon came off.
+> 自分の荷物に名札を取り付けたけれども、すぐに外れてしまった。
   
-
 #### 301
-### 
-> 
+### On average, these packages weigh two pounds.
+> これらの小包の重さは平均すると2ポンドです。
   
-
 #### 302
-### 
-> 
+### This plastic garbage bag is free of hazardous chemicals.
+> このビニール製のゴミ袋は有害な化学物質を含んでいません。
   
-
 #### 303
-### 
-> 
+### This flashlight is getting dim. It needs new batteries.
+> この懐中電灯は暗くなってきた。電池を入れ替えないと。
   
 <a name="Section026"></a>
 ## Section026
 [TOP](#TopPage)
   
 #### 304
-### 
-> 
+### Excuse me. How often do the shuttle buses run to downtown New York?
+> すいません。ニューヨーク市街に行くシャトルバスはどの位の頻度で走ってますか？
   
-
 #### 305
-### 
-> 
+### The motel can accommodate as many as 400 guests.
+> そのモーテルは400人もの宿泊客を泊められる。
   
-
 #### 306
-### 
-> 
+### This suite is three times larger than my condominium.
+> このスイートルームは、私の持っているマンションの3倍の広さだ。
   
-
 #### 307
-### 
-> 
+### Littering in this facility is subject to a maximum fine of $500.
+> この施設内でのゴミの投げ捨てには、最高500ドルの罰金が科せられる場合があります。
   
-
 #### 308
-### 
-> 
+### That restaurant is always packed. We'd better make a reservation beforehand.
+> あのレストランはいつも混んでいるから、事前に予約をした方がいい。
   
-
 #### 309
-### 
-> 
+### "Sorry to interrupt your meal but I'd like a word with you in private." "Can I get back to you later?"
+> 「食事の邪魔をして悪いんだけど、ちょっと内密に相談したいことがあるの。」「後で君のところに行くよ。」
   
-
 #### 310
-### 
-> 
+### The cook was astonished at his incredible appetite.
+> 料理人は彼の信じられないほどの食欲にたいへん驚いた。
   
-
 #### 311
-### 
-> 
+### "What's going on down there? I'm curious." "I have no idea."
+> 「下で何が起こっているの？すごく気になるわ」「さあ、なんだろう（わかりません）」
   
-
 #### 312
-### 
-> 
+### Excited fans were hanging around the rear exit hoping to catch a glimpse of Michael.
+> 興奮したファンたちが、マイケルをひと目見ようと裏口に群がっていた。
   
-
 #### 313
-### 
-> 
+### On encountering the celebrity, they asked for his autograph.
+> 彼らは有名人と出くわすなり、サインをねだった。
   
 <a name="Section027"></a>
 ## Section027
 [TOP](#TopPage)
   
 #### 314
-### 
-> 
+### Whenever I go abroad, I suffer from jet lag and diarrhea.
+> 海外に行くと必ず、時差ぼけと下痢に悩まされる。
   
-
 #### 315
-### 
-> 
+### "I feel sort of dizzy and I feel like throwing up." "You look pale!"
+> 「なんだかめまいと吐き気がするよ。」「顔が真っ青よ！」
   
-
 #### 316
-### 
-> 
+### Take some aspirin. It will cure you of your headache in no time.
+> 鎮痛剤を飲めば、すぐに頭痛は治まります。
   
-
 #### 317
-### 
-> 
+### "I'm afraid I'm coming down with something." "You should take a day off."
+> 「なんだか体調がわるいなあ。」「一日休みをとったほうがいいわよ。」
   
-
 #### 318
-### 
-> 
+### Some of the ingredients in this beverage are harmful, especially if you are pregnant.
+> この飲料に含まれている成分には有害なものもある。とりわけ、妊娠中の人にとっては。
   
-
 #### 319
-### 
-> 
+### Good nutrition is vital for an infant's growth.
+> 十分な栄養摂取は幼児の発育にとって極めて重要です。
   
-
 #### 320
-### 
-> 
+### Moderate exercise stimulates the circulation of the blood.
+> 適度な運動は血の循環を刺激する。（血行をよくする）
   
-
 #### 321
-### 
-> 
+### My physician advised me to refrain from alcohol for the time being.
+> 当分の間は酒を控えるようにと、医者に忠告された。
   
-
 #### 322
-### 
-> 
+### I do want to get into shape and lose some weight, so I go swimming every morning.
+> 本当に体調を良くしたいし、減量もしたいから、毎朝泳ぎに行っています。
   
-
 #### 323
-### 
-> 
+### He caught a nasty cold because he stayed up late last night.
+> 昨日の夜更かしがたたって、彼はひどい風邪をひいた。
   
-
 #### 324
-### 
-> 
+### The surgeon persuaded him to undergo an organ transplant.
+> 外科医に説得されて、彼は臓器移植を受ける（経験する）ことにした。
   
-
 #### 325
-### 
-> 
+### Since our father is bedridden, we take turns looking after him.
+> 父が寝たきりなので私たちが交代で面倒を見ています。
   
-
 #### 326
-### 
-> 
+### Our hypothesis is that eating excessive amounts of junk food contributes to early mortality.
+> ジャンクフードの過剰な（過度な量の）摂取は早死の（速く死ぬ運命となる）一因になる、というのが我々の仮説だ。
   
-
 #### 327
-### 
-> 
+### The government did not take appropriate measures to prevent the infection from spreading.
+> 政府は感染の拡大を未然に防ぐための適切な措置（手段）を取らなかった。
   
-
 #### 328
-### 
-> 
+### The minister was obliged to resign from the Cabinet.
+> その大臣は内閣からの辞任を余儀なくされた。
   
 <a name="Section028"></a>
 ## Section028
 [TOP](#TopPage)
   
 #### 329
-### 
-> 
+### Many people regard the current compulsory education system as being obsolete.
+> Many people regard the current compulsory education system as being obsolete.
   
-
 #### 330
-### 
-> 
+### Many people encouraged me to fulfill my ambitions.
+> 大きな目標を実現するようにと、たくさんの人が私を励ましてくれた。
   
-
 #### 331
-### 
-> 
+### To make his dreams come true, he dropped out of school and made his way to Tokyo.
+> 自分の夢を実現させるために、彼は学校を中退して東京を目指した。
   
-
 #### 332
-### 
-> 
+### "What do you do?" "I'm a college student, a freshman at Harvard." "What's your major?" "Philosophy."
+> 「普段は何をなさっているんですか？（ご職業は？）」「大学生です。ハーバードの1年生です。」「専攻は？」「哲学です。」
   
-
 #### 333
-### 
-> 
+### Tuition will be raised by nearly ten percent as of April 1, 2001.
+> 2001年4月1日から授業料が10％近く高くなります。
   
-
 #### 334
-### 
-> 
+### "I'm of two minds whether to apply for the scholarship or not." "Give it a try!"
+> 「奨学金を申し込もうかどうか悩んでるの。」「やってみなよ！」
   
-
 #### 335
-### 
-> 
+### As soon as he graduated from Keio University, he took over his family's business
+> 彼は慶応大学を卒業するとすぐに家業を継いだ。
   
-
 #### 336
-### 
-> 
+### You aren't cut out for the military because of its rigid discipline.
+> 軍の規律は厳格だから、あなたには向かないわ。
   
-
 #### 337
-### 
-> 
+### I am determined to make a living as a playwright at all costs.
+> 私はどんな犠牲を払ってでも、脚本家で生計をたてると決心している。
   
-
 #### 338
-### 
-> 
+### As he grew up, he learned to put things in perspective.
+> 彼も大人になって、物事を統合的な視野でとらえられるようになった。
   
-
 #### 339
-### 
-> 
+### Conformity is an essential element of our homogeneous community.
+> 同じような人々からなる私たちの地域社会では、体制に従おうとする意識は不可欠な要素である。
   
-
 #### 340
-### 
-> 
+### I'd rather go my own way than toil away for a company. Trying to fit into a mold gets me nowhere!
+> 会社のためにあくせく（ひたすら）働くよりは、我が道を行きたい。型にはまろうとしたって何の成果ももたらさないよ！
   
-
 #### 341
-### 
-> 
+### Tom takes after his uncle in personality. I mean, he is obstinate by nature. He never gives in.
+> トムは性格が彼のおじに似ている。つまり、生まれつきの頑固もの。彼は絶対に折れない（降参しない）。
   
 <a name="Section029"></a>
 ## Section029
 [TOP](#TopPage)
   
 #### 342
-### 
-> 
+### When the time is ripe, be bold and go for it! I'll stand by you.
+> 機が熟したら、大胆に突き進むんだ（手に入れようと頑張るんだ）！僕がいつもそばにいるよ（見捨てないよ）。
   
-
 #### 343
-### 
-> 
+### I'll stand up for what I believe in and won't yield to any threats.
+> 自分の信念を守るためには立ち上がるし、いかなる脅威にも屈しないつもりだ。
   
-
 #### 344
-### 
-> 
+### "If only I could conquer my weaknesses!" "It's up to you."
+> 「自分の弱点を克服できさえすればなあ。」「あなた次第よ。」
   
-
 #### 345
-### 
-> 
+### You should make the most of this rare opportunity to demonstrate your talent.
+> 自分の才能を示すために、めったのないこの機会を最大限利用するべきだ。
   
-
 #### 346
-### 
-> 
+### You won't let me down. I have great faith in you. You can make it!
+> 僕をがっかりさせないよね？信頼しているよ。君なら成功するさ！
   
-
 #### 347
-### 
-> 
+### The spectators were moved by her graceful performance.
+> 観客たちは彼女の優雅な演技に感動した。
   
-
 #### 348
-### 
-> 
+### In 1995, Ando received architecture's most prestigious award.
+> 1995年、安藤氏は建築における最も権威ある賞を受賞した
   
-
 #### 349
-### 
-> 
+### In the face of adversity, Mike accomplished an extraordinary feat. He deserves praise.
+> 逆境をものともせず、マイクはすばらしい（並外れた）偉業を成し遂げた。称賛を受けるのは当然だ。
   
-
 #### 350
-### 
-> 
+### The audience was impresed by his eloquent lecture.
+> 聴衆は彼の説得力のある講義に感銘を受けた。
   
-
 #### 351
-### 
-> 
+### The audience was impresed by his eloquent lecture.
+> 庶民の身から、ジョンは世界的な名声を勝ちとった（成し遂げた）。
   
-
 #### 352
-### 
-> 
+### He accumulated a tremendous fortune during the postwar era.
+> 彼は戦後に莫大な財産を築いた（貯めた）。
   
-
 #### 353
-### 
-> 
+### He used to be well off and generous, but now he lives from hand to mouth.
+> 彼は以前は裕福で気前も良かったけれど、今ではその日暮らしだ。
   
 <a name="Section030"></a>
 ## Section030
 [TOP](#TopPage)
   
 #### 354
-### 
-> 
+### Nick is by no means satisfied with the reward. He is selfish and greedy.
+> ニックは決してその報酬に満足していない。彼は自己中心的で欲が深い。
   
-
 #### 355
-### 
-> 
+### "You owe me $200 altogether, Bob. When are you going to pay me back?" "I'm sorry, I'm hard up." "There you go again!"
+> 「全部で200ドル貸しているのよ、ボブ。いつ返すつもりなの？」「ごめん、金欠なんだ（お金に困ってるんだ）」「まただよ！」
   
-
 #### 356
-### 
-> 
+### To Brian's surprise, his debt amounted to a considerable sum.
+> ブライアンが驚いたことに、借金はかなりの額に達していた。
   
-
 #### 357
-### 
-> 
+### Stop clinging to your glory days, or you'll be left behind.
+> 過去の栄光にしがみつくのはやめないと、置き去りにされるわよ。
   
-
 #### 358
-### 
-> 
+### You cannot escape from today's harsh realities, so you must adapt to them.
+> 今日の厳しい現実からは逃れられない以上、それに順応しなければならない。
   
-
 #### 359
-### 
-> 
+### Prosperity does not last forever. In other words, it will come to an end one of these days.
+> 繁栄は永遠に続くものではない。つまり、いつかは終わるものだ。
   
-
 #### 360
-### 
-> 
+### Proper qualifications are required for the position; computer literacy is a must.
+> その職種には相応の資格や能力が必要で、コンピューターが使えることは絶対条件である。
   
-
 #### 361
-### 
-> 
+### Enclose your resume in this envelope and submit it to the personnel department.
+> この封筒に履歴書も同封して人事部に提出してください。
   
-
 #### 362
-### 
-> 
+### It's optimistic of you to believe that things will work out. At best there's a fifty-fifty-chance.
+> 物事がうまく行くと信じるなんて君も楽観的だね。可能性はせいぜい50％だよ。
   
-
 #### 363
-### 
-> 
+### Registration forms can be obtained free of charge.
+> 登録用紙は無料で入手できます。
   
-
 #### 364
-### 
-> 
+### Please give us a call now if you want to participate in the workshop!
+> この講習会に参加をご希望の方は、今すぐお電話ください。
   
-
 #### 365
-### 
-> 
+### For further inquiries, please feel free to contact us toll-free at 1-800-555-1212.
+> さらにご質問がありましたら、どうぞご遠慮なくフリーダイヤル1-800-555-1212までお電話ください（連絡を取って下さい）
   
 <a name="Section031"></a>
 ## Section031
 [TOP](#TopPage)
   
 #### 366
-### 
-> 
+### "How's it going, Bob?" "Couldn't be better! I did well in my job interview!" "Good for you!"
+> 「ボブ、最近どう？」「最高だよ！就職面接がうまくいったんだ。」「やったじゃない！」
   
-
 #### 367
-### 
-> 
+### He gave instructions to the trainees, but they couldn't make heads or tails of them.
+> 研修生たちは、彼から与えられた指示がさっぱりわからなかった。
   
-
 #### 368
-### 
-> 
+### You can't do two things at one time! It's out of the question. Do them one by one.
+> 一度に二つのことはできないよ。無理に決まってる。一つずつやりなよ。
   
-
 #### 369
-### 
-> 
+### "Bob, don't disturb her. Mind your own business," he whispered.
+> 「ボブ、彼女の邪魔をしちゃだめだぞ。おせっかいはやめろ」と彼はささやいた。
   
-
 #### 370
-### 
-> 
+### If you persist in bothering her like that, she'll lose her temper.
+> そうやってしつこく彼女を困らせると、彼女も怒り出すぞ。
   
-
 #### 371
-### 
-> 
+### He was so childish that he couldn't resist temptation.
+> 彼はあまりに子供だから誘惑に勝てなかった。（我慢できなかった）
   
-
 #### 372
-### 
-> 
+### "Stop making a fuss. It really gets on my nerves!" she shouted.
+> 「ぎゃあぎゃあ言うのはやめて。本当にいらいらするわ。」と彼女は叫んだ。
   
-
 #### 373
-### 
-> 
+### There's no point in talking back to Nick. He is a "dictator," so to speak.
+> ニックに口答えしたって無駄だよ。言ってみりゃ彼は独裁者さ。
   
-
 #### 374
-### 
-> 
+### They are very polite in his presence, but actually, they always talk about him behind his back.
+> 彼女たちは彼の前ではとても礼儀正しいが、実際には、いつも陰口を言っている。
   
-
 #### 375
-### 
-> 
+### "You despise Nick, don't you?" "On the contrary! I look up to him."
+> 「ニックを軽蔑しているんだろう？」「とんでもない！（それどころか！）尊敬しているわ。」
   
-
 #### 376
-### 
-> 
+### His constant insults aroused her anger.
+> 彼の絶え間ない侮辱が、彼女の怒りを呼び起こした。
   
-
 #### 377
-### 
-> 
+### I'm fed up with just shuffling papers and pouring coffee. I've made up my mind to quit!
+> 書類の整理とかお茶くみには、うんざり。会社をやめることに決めたわ。
   
-
 #### 378
-### 
-> 
+### In reality, many people have difficulty making ends meet. How can you get by on 100,000 yen a month?
+> 実際、多くの人々が家計のやりくりに苦労している。月々10万円でどうしたらやっていけるだろう？（なんとか生活できるだろう？）
   
-
 #### 379
-### 
-> 
+### Female clerks may well complain about their routines, which are not challenging at all.
+> 女性職員が自分たちの日常業務に不満をいうのももっともだ。全くやりがいのない仕事だから。
   
-
 #### 380
-### 
-> 
+### Thanks to a fundamental restructuring, our surplus has swelled threefold.
+> 抜本的に事業の再構築をおこなったおかげで、当社の黒字は3倍に膨らんだ。
   
-
 #### 381
-### 
-> 
+### Many people today think of loyalty to a company as an absurd notion.
+> 現在の多くの人が、会社に対する忠誠はばかげた考えだと思っている。
   
-
 #### 382
-### 
-> 
+### I have to commute all the way from a distant suburb. I'm sick of it!
+> 僕は遠い郊外からわざわざ通勤しなければならない。もううんざりだ！
   
 <a name="Section032"></a>
 ## Section032
 [TOP](#TopPage)
   
 #### 383
-### 
-> 
+### I want to spend the rest of my life pursuing my ideals.
+> 余生は自分の理想の追求（追いかける）に費やしたい。
   
-
 #### 384
-### 
-> 
+### After retirement, Teresa devoted herself to caring for orphans.
+> 現役を引退した後、テレサは孤児の世話に一身を捧げた。
   
-
 #### 385
-### 
-> 
+### For the sake of children in need, we cooperated to collect donations.
+> 困っている子供たちのために、私たちは募金活動に（寄付金を集める）協力した。
   
-
 #### 386
-### 
-> 
+### The charity is named after a man who gave away some two billion yen.
+> その慈善団体には、およそ20億円の寄付をした人物の名前がつけられている。
   
-
 #### 387
-### 
-> 
+### His autobiography was released today and was sold out by noon
+> 彼の自叙伝が今日発売され、午前中に完売した。
   
-
 #### 388
-### 
-> 
+### Ted, who is often referred to as a man of integrity, is going to run for mayor.
+> 高潔な人物だと度々呼ばれているテッドが、市長に立候補する。
   
-
 #### 389
-### 
-> 
+### The candidate was disappointed by the outcome of the election.
+> その候補者は選挙結果に落胆した。
   
-
 #### 390
-### 
-> 
+### The municipal council should concentrate more on specific issues.
+> 市議会は具体的な問題にもっと焦点を当てるべきだ。
   
-
 #### 391
-### 
-> 
+### It is the case that those who live on a pension are forced to lead a hard life.
+> 年金生活者が厳しい生活を送ることを強いられているというのは事実です。
   
-
 #### 392
-### 
-> 
+### We should leave out this data. It's far from accurate.
+> このデータは除外したほうがいい。正確と言うには程遠いものだ。
   
 <a name="Section033"></a>
 ## Section033
 [TOP](#TopPage)
   
 #### 393
-### 
-> 
+### We tend to associate politicians with hypocrisy.
+> 私たちは政治家というと偽善を連想しがちだ。
   
-
 #### 394
-### 
-> 
+### They are primarily concerned with exploiting us, not with enhancing our living standards.
+> 彼らの一番の関心ごとは、私たちの生活水準を高めることではなく、私たちから搾取することだ。
   
-
 #### 395
-### 
-> 
+### The man once exerted a dominant influence on the conservative party, but now his power is diminishing.
+> その男はかつて保守政党に対して支配的影響力を及ぼしていたが、今では彼の力も弱まっている。
   
-
 #### 396
-### 
-> 
+### The spokesperson refused to make any comment, saying, "It's under investigation."
+> 報道担当者は「調査中です」と言って一切のコメントを拒否した。
   
-
 #### 397
-### 
-> 
+### The police say there's someone pulling strings behind the scenes.
+> 裏で糸を引いている人物がいると警察は言っている。
   
-
 #### 398
-### 
-> 
+### The executives entertained the bureaucrats at ryotei, or exclusive Japanese restaurants, hoping for something in return.
+> 役員たちは何らかの見返りを期待して、官僚たちを料亭、すなわち、高級な日本料理店で接待した。
   
-
 #### 399
-### 
-> 
+### His secretary flatly denied leaking any confidential information.
+> 彼の秘書は機密情報はいっさい漏らしていないときっぱりと言った。
   
-
 #### 400
-### 
-> 
+### No one dares to contradict his/her employer for fear of being fired.
+> クビになるのが怖いから、雇用主に思い切って逆らおう（否定しよう）とする人は誰一人としていない。
   
-
 #### 401
-### 
-> 
+### He sacrificed his promising career to retain his dignity.
+> 彼は自分の尊厳を守るために、将来有望な経歴を犠牲にした。
   
-
 #### 402
-### 
-> 
+### I might as well kill myself as reconcile myself to my fate.
+> 自分の運命を仕方なく受け入れるぐらいなら自殺したほうがましだ。
   
-
 #### 403
-### 
-> 
+### He was about to commit suicide by swallowing poison when he thought better of it.
+> 毒物を飲んで自殺をしようとするところで彼は思いとどまった。
   
 <a name="Section034"></a>
 ## Section034
 [TOP](#TopPage)
   
 #### 404
-### 
-> 
+### The vague rumor proved to be false. Nevertheless, some skepticism lingers on.
+> その曖昧な噂は嘘だとわかった。それでもやはり、多少の疑いはまだ残る。
   
-
 #### 405
-### 
-> 
+### A senior official is suspected of accepting bribes from a company, but there isn't sufficient evidence to arrest him.
+> ある政府高官が企業から賄賂を受け取った容疑を掛けられている。しかし、逮捕するには証拠が不十分だ。
   
-
 #### 406
-### 
-> 
+### Jason, who was in charge of the project, was dismissed for corruption.
+> そのプロジェクトの責任者であったジェイソンが、汚職に手を染めた理由で解任された。
   
-
 #### 407
-### 
-> 
+### To my knowledge, he has not been involved in the fraud scheme.
+> 私の知る限り、彼はその詐欺の企みには関わっていません。
   
-
 #### 408
-### 
-> 
+### They found out the truth while examining a pile of relevant documents.
+> 書類関係の山を調べていくうちに、彼らは真実を見つけだした。
   
-
 #### 409
-### 
-> 
+### During the trial it came to light that they had been covering up illegal transactions for decades.
+> 彼らが数十年にわたって違法取引を隠蔽していたことが、公判中に明らかになった。
   
-
 #### 410
-### 
-> 
+### The detective took down his testimony on the spot, word for word.
+> 410.刑事はその場で、彼の証言を一字一句正確に書き取った。
   
-
 #### 411
-### 
-> 
+### For the first time in my life, I felt a pang of conscience, but there was no other way out.
+> 生まれて初めて良心の苦痛を感じましたが、そうする以外にその場を逃れる方法はありませんでした。
   
-
 #### 412
-### 
-> 
+### I'm still haunted by a vivid nightmare I had last night.
+> 昨日の夜に見た鮮明な悪夢がまだ頭から離れない。
   
-
 #### 413
-### 
-> 
+### By and large, reporters don't hesitate to intrude on one's privacy.
+> 概して、記者というものは個人のプライバシーを侵害することにためらいを感じない。
   
-
 #### 414
-### 
-> 
+### The author revised his manuscript over and over again.
+> 著者は何度も何度も原稿を改訂した。
   
-
 #### 415
-### 
-> 
+### He is second to none when it comes to finding fault with others.
+> 他人の過ちを指摘することにかけては、彼の右にでるものはいない。
   
-
 #### 416
-### 
-> 
+### On the whole, the elite are not sensitive to criticism.
+> 概して、エリートたちは批判に対して鈍感だ。
   
-
 #### 417
-### 
-> 
+### When a tabloid revealed that he was a drug addict, his reputation was all but ruined.
+> ある大衆紙に彼は麻薬常用者だと暴露（明か）され、彼の評判はほとんど地に堕ちた（失墜させられた）。
   
-
 #### 418
-### 
-> 
+### They considered every aspect of the defense program and pointed out numerous flaws.
+> 彼らはその防衛計画をあらゆる面から検討し、多数の問題箇所を指摘した。
   
 <a name="Section035"></a>
 ## Section035
 [TOP](#TopPage)
   
 #### 419
-### 
-> 
+### We will not tolerate anyone who engages in terrorism.
+> 我々は、誰であろうとテロ活動に携わる者に寛容な態度を取るつもりはない。
   
 
 #### 420
-### 
-> 
+### The notorious rebel was ultimately captured and confined to jail.
+> 悪名高い反乱兵はついに捉えられ、拘置所に身柄を拘束された（閉じ込められた）。
   
 
 #### 421
-### 
-> 
+### Troops were swiftly called in to put down the riot.
+> 暴動を鎮圧するために、素早く軍隊が派遣された。
   
-
 #### 422
-### 
-> 
+### We should appeal to reason instead of resorting to violence.
+> 私たちは暴力という手段をとるのではなく、理性に訴えるべきだ。
   
-
 #### 423
-### 
-> 
+### I suggest we adopt flexible tactics for the moment.
+> 今のところは柔軟な戦術を採用してみてはどうでしょう。（提案してみる）
   
-
 #### 424
-### 
-> 
+### The armed forces succeeded in occupying the entire territory.
+> 軍は全領土を占領することに成功した。
   
-
 #### 425
-### 
-> 
+### Under the circumstances, the enemy has no choice but to surrender. They can't hold out any longer.
+> このような状況では、敵は降伏せざるを得ない。彼らがこれ以上持ちこたえることは不可能だ。
   
-
 #### 426
-### 
-> 
+### Sooner or later, the hostages will be set free.
+> 遅かれ早かれ、人質たちは開放されるだろう。
   
-
 #### 427
-### 
-> 
+### Under the reign of tyranny, innocent people were deprived of their citizenship.
+> 専制政治による支配のもとで、罪の無い人々が市民権を剥奪された。
   
-
 #### 428
-### 
-> 
+### Some soldiers were reluctant to obey the commands.
+> その命令にいやいや従う兵士もいた。
   
-
 #### 429
-### 
-> 
+### His regime is bound to collapse.
+> 彼の政権はきっと崩壊する。
   
-
 #### 430
-### 
-> 
+### The allies condemned the invasion as a violation of UN resolutions.
+> 同盟諸国はその侵略行為が国連決議に違反するとして、厳しく非難した。
   
-
 #### 431
-### 
-> 
+### We cannot rule out the possibility that civil war will break out in that country.
+> その国で内乱が勃発する可能性がないとは断言できない。
   
-
 #### 432
-### 
-> 
+### The colony declared independence and became a republic.
+> その植民地は独立を宣言し、共和国となった。
   
 <a name="Section036"></a>
 ## Section036
 [TOP](#TopPage)
   
 #### 433
-### 
-> 
+### An immense monument was erected in honor of the noble patriot.
+> その高潔な愛国者に敬意を表して、巨大な記念碑が建てられた。
   
-
 #### 434
-### 
-> 
+### He got down on his knees and prayed for the souls of the deceased.
+> 彼はひざまずいて故人の霊に祈りを捧げた。
   
-
 #### 435
-### 
-> 
+### The Supreme Court is located near the Imperial Palace.
+> 最高裁判所は皇居の近くにある。
   
-
 #### 436
-### 
-> 
+### The pro-choice group protested against a ban on abortion.
+> 中絶賛成派グループが中絶の禁止に対して抗議した。
   
-
 #### 437
-### 
-> 
+### Senator Ford remained neutral in the bitter controversy.
+> フォード上院議員はその激しい論争において、中立の立場を守った。
   
-
 #### 438
-### 
-> 
+### Ford has been in a difficult situation all week long. He is no longer capable of coping with it.
+> フォード氏はここ一週間ずっと困難な立場にある。もはや、彼にはうまく対処することはできない。
   
-
 #### 439
-### 
-> 
+### The summit talks are to be broadcast simultaneously throughout the world.
+> 首脳会議は世界中で同時に放送される予定だ。
   
-
 #### 440
-### 
-> 
+### Diplomatic dialogue helped put an end to the conflict.
+> 外交的対話のおかげでその紛争に終止符をうつことができた。
   
-
 #### 441
-### 
-> 
+### Johnson was appointed as a goodwill ambassador to foster mutual understanding between the two nations.
+> 両国の相互理解を育てるために、ジョンソンさんが親善大使に任命された。
   
-
 #### 442
-### 
-> 
+### The specialist predicts international tension will build up.
+> その専門家は国際的な緊張が高まっていくと予測している。
   
-
 #### 443
-### 
-> 
+### In my opinion, permanent peace is nothing but an illusion.
+> 私の考えでは、永久の平和など幻想に過ぎない。
   
-
 #### 444
-### 
-> 
+### Ethnic minorities struggle against prejudice, poverty, and oppression.
+> 民族的少数派は偏見、貧困、抑圧と戦っている。
   
-
 #### 445
-### 
-> 
+### We must make every effort to do away with all discrimination.
+> すべての差別を廃止するために、私たちはあらゆる努力をしなければならない。
   
-
 #### 446
-### 
-> 
+### The immigrants have endured physical and mental pain.
+> 移民たちは肉体的、精神的苦痛に耐えてきた。
   
-
 #### 447
-### 
-> 
+### The amendment was rejected because it didn't take racial diversity into account.
+> その改正案は、人種の多様性を考慮していないとの理由で却下された。
   
-
 #### 448
-### 
-> 
+### Needless to say, the refugees were longing for freedom.
+> 言うまでもなく、難民たちは自由を強く求めていた。
   
 <a name="Section037"></a>
 ## Section037
 [TOP](#TopPage)
   
 #### 449
-### 
-> 
+### According to a survey, three in five people today are indifferent to foreign affairs.
+> ある調査によると、今日では5人中3人が外交問題には無関心だそうだ。
   
-
 #### 450
-### 
-> 
+### What will become of Japan-U.S. relations if the security treaty expires?
+> 安全保障条約が期限切れになったら、日米関係はどうなるんだろう？
   
-
 #### 451
-### 
-> 
+### Unless Japan eliminates its unfair tariffs, the U.S. will impose sanctions.
+> 日本が不公平な関税を撤廃しなければ、米国は制裁処置を取る（課す）だろう。
   
-
 #### 452
-### 
-> 
+### Trade friction might arise between the two nations at any moment.
+> 両国の間では貿易摩擦が今にも起きそうだ。
   
-
 #### 453
-### 
-> 
+### Our top priority is to settle this dispute once and for all, so we are ready to meet them halfway.
+> 我々の最優先事項はこの論争にきっぱりと決着を付けることだ。そのためには相手側との妥協も覚悟している。
   
-
 #### 454
-### 
-> 
+### The federal budget was narrowly approved by Congress.
+> 連邦予算はかろうじて議会の承認を得た。
   
-
 #### 455
-### 
-> 
+### He argues that the administration must look for alternative sources of revenue.
+> 政府は別の歳入源を探さなければいけない、と彼は主張している。
   
-
 #### 456
-### 
-> 
+### A poll shows that an overwhelming majority is in favor of the legislation.
+> 世論調査の結果から、圧倒的多数の人がその法律を支持していることがわかる。
   
 <a name="Section038"></a>
 ## Section038
 [TOP](#TopPage)
   
 #### 457
-### 
-> 
+### The cops are searching for clues to the brutal murder.
+> 警察はその残虐な殺人事件の手がかりを探している。
   
-
 #### 458
-### 
-> 
+### The man must be insane. He can't distinguish vice from virtue.
+> その男は頭がおかしい（正気ではない）に違いない。善悪の区別が付けられないんだ。
   
-
 #### 459
-### 
-> 
+### The fingerprints left on the weapon correspond with the suspect's.
+> 凶器に残された指紋は容疑者のものと一致する。
   
-
 #### 460
-### 
-> 
+### It took us all by surprise when the noted psychologist was accused of kidnapping.
+> その著名な心理学者が誘拐罪で訴えられたことに、私たちは皆驚いた。
   
-
 #### 461
-### 
-> 
+### The jury's guilty verdict gave rise to widespread debate.
+> 陪審団による有罪判決が大論争の引き金となった。
   
-
 #### 462
-### 
-> 
+### The man pleaded for mercy, but he was sentenced to twenty years in prison for his crime.
+> 男は情状酌量を求めたが、犯した罪に対して20年の懲役刑が言い渡された。
   
-
 #### 463
-### 
-> 
+### The officer on duty perceived an elderly man coming up behind him.
+> 勤務中の警官は、一人のお年寄りが自分の背後に近づいてくるのに気付いた。
   
-
 #### 464
-### 
-> 
+### He caught sight of a thief attempting to break into the house.
+> 彼はその家に押し入ろう（不法侵入しよう）としている泥棒をちらっと見かけた。
   
-
 #### 465
-### 
-> 
+### The day before yesterday he witnessed a weird incident in the wilderness.
+> おととい、彼はその原野で奇妙な出来事を目撃した。
   
 <a name="Section039"></a>
 ## Section039
 [TOP](#TopPage)
   
 #### 466
-### 
-> 
+### I became aware of someone staring at me from across the aisle, so I turned around. But there was no one in sight.
+> 通路の向こうから、誰かが私をじっと見ているのに気付いたので振り向いた。しかし、誰の姿も見えなかった。
   
-
 #### 467
-### 
-> 
+### She screamed with horror as someone took hold of her arm.
+> 何者かに腕を掴まれ、彼女は怖くて悲鳴を上げた。
   
-
 #### 468
-### 
-> 
+### Informed of her safety, he breathed a sign of relief.
+> 彼女の無事を知らされて、彼は安堵のため息をついた。
   
-
 #### 469
-### 
-> 
+### The bullet penetrated his chest, leaving him in critical condition.
+> 銃弾が胸を貫通し、彼は危篤状態に陥った。
   
-
 #### 470
-### 
-> 
+### At present, it's still uncertain whether it was done deliberately or by accident.
+> そうなったのが故意なのか過失なのか、現時点ではまだはっきりしない（不確実だ）。
   
-
 #### 471
-### 
-> 
+### A deli caught fire and burned down, leaving a heap of ashes.
+> デリから火災が発生し、灰の山を残して全焼した。
   
-
 #### 472
-### 
-> 
+### All of a sudden the fireworks warehouse exploded, and it took two days to put out the blaze.
+> 花火の貯蔵庫が突然爆発し、激しい炎を鎮めるために2日間を要した。
   
-
 #### 473
-### 
-> 
+### A bomb went off in a thirty-story building, and more than fifty people were seriously wounded.
+> 30階建てのビルで爆弾が爆発し、50人以上が重傷を負った。
   
-
 #### 474
-### 
-> 
+### A cargo vessel, bound for Athens, sank in the Mediterranean without a trace.
+> アテネへ向かう一隻の貨物船が、なんの痕跡も残さずに地中海で沈没した。
   
-
 #### 475
-### 
-> 
+### The reckless men froze to death during their expedition to the Antarctic.
+> 無謀な男たちが南極探検中に凍死した。
   
-
 #### 476
-### 
-> 
+### The tragedy must be remembered so as not to be repeated.
+> 同じことが繰り返されないように、その悲劇を忘れてはならない（覚えておく）。
   
 <a name="Section040"></a>
 ## Section040
 [TOP](#TopPage)
   
 #### 477
-### 
-> 
+### The exhibition offers profound insights into ancient civilization.
+> その展示会に行くと古代文明に対する深い理解が得られる。
   
-
 #### 478
-### 
-> 
+### Giotto is credited with sowing the seeds of the Italian Renaissance.
+> イタリアルネッサンスを開花させるきっかけを作ったのはジョットの功績だ。
   
-
 #### 479
-### 
-> 
+### Bob mounted the portrait in a fancy frame, but it was upside down.
+> ボブは装飾された額にその肖像画を収めたけれど、上下逆さまだった。
   
-
 #### 480
-### 
-> 
+### This magnificent cathedral dates back to the Middle Ages.
+> この荘厳な大聖堂の建立は中世にまでさかのぼる。
   
-
 #### 481
 ### 
 > 
