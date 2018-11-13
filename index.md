@@ -2106,415 +2106,341 @@
 > この荘厳な大聖堂の建立は中世にまでさかのぼる。
   
 #### 481
-### 
-> 
+### Asian religions inspired him to create splendid sculptures.
+> アジアの宗教からひらめきを得て、彼は複数のすばらしい彫刻作品を創造した。
   
-
 #### 482
-### 
-> 
+### They explored the desert in search of buried treasure.
+> 彼らは埋蔵された（埋められた）宝物を求めて砂漠を探検した。
   
-
 #### 483
-### 
-> 
+### The millionaire insisted on acquiring the masterpiece no matter how much it cost.
+> たとえいくらかかろうともその傑作を手に入れると、その大富豪は言い張った（強く主張した）。
   
-
 #### 484
-### 
-> 
+### Myths and legends should be hanbed down from generation to generation.
+> 神話や伝説は代々語り継がれていくべきだ。
   
-
 #### 485
-### 
-> 
+### The linguist is fluent in several Chinese dialects.
+> その言語学者はいくつかの中国語の方言を流暢に話す。
   
-
 #### 486
-### 
-> 
+### The tribe worships its ancestors and speak its own language, which is not familiar to us.
+> その部族は祖先を崇拝し、私たちにはなじみのない独自の言語を話す。
   
-
 #### 487
-### 
-> 
+### The anthropologist says old customs still prevail in the province.
+> その州ではいまだに古い慣習が広く行われている、とその文化人類学者は言っている。
   
-
 #### 488
-### 
-> 
+### The wicked witch cast an evil spell on the man and turned him into a bug.
+> 意地の悪い魔女が男にとんでもない魔法をかけて、虫に変えてしまった。
   
-
 #### 489
-### 
-> 
+### They proceeded along the steep path, which was the sole access to the border.
+> その傾斜が急な小道に沿って彼らは前進した。それは国境へたどり着く唯一の方法だった。
   
-
 #### 490
-### 
-> 
+### When a big ape emerged from the cave, they got frightened and ran away.
+> 洞窟から大きな猿が現れると、彼らはびっくりして逃げていった。
   
-
 #### 491
-### 
-> 
+### "Believe it or not, I saw an alien and then it vanished!" "Give me a break!"
+> 「信じてくれないかもしれないけど、宇宙人を見たの。で、消えちゃったのよ！」「冗談はよせよ。」
   
 <a name="Section041"></a>
 ## Section041
 [TOP](#TopPage)
   
 #### 492
-### 
-> 
+### Quite a few people have been invited to celebrate the couple's anniversary.
+> かなりの数の人々が、その夫婦の結婚記念のお祝いに招待されている。
   
-
 #### 493
-### 
-> 
+### It won't be long before everything is ready. In the meantime, help yourself to some snacks.
+> もうすぐ準備完了です。その間、軽食をご自由につまんでいてください。
   
-
 #### 494
-### 
-> 
+### Dressed in a loud and peculiar outfit, she stood out in the crowd.
+> けばけばしい奇妙な服を着ていた彼女は、人ごみの中でもひと際目立った。
   
-
 #### 495
-### 
-> 
+### All the guests were touched by her hospitality.
+> 招かれた人は皆、彼女のもてなしに心を打たれた。
   
-
 #### 496
-### 
-> 
+### Her shabby clothes were not suitable for the occasion.
+> 彼女のみずぼらしい服は、その場にはふさわしくなかった。
   
-
 #### 497
-### 
-> 
+### That topic is too intimate to share with casual acquaintances.
+> たまたま知り合った人たちと話すには、その話題は立ち入り（私的）すぎている
   
-
 #### 498
-### 
-> 
+### When Tom gets drunk, he gets crude and offensive. Stay away from him.
+> トムは酔っ払うと下品になって、人に不快な思いをさせるから、近づいちゃだめよ。
   
-
 #### 499
-### 
-> 
+### He could hardly comprehend what she was implying.
+> 彼女がほのめかしていることを彼はほとんど理解できなかった。
   
-
 #### 500
-### 
-> 
+### Bob felt embarrassed when he was teased in front of some girls.
+> 女の子の前でからかわれて、ボブは恥ずかしかった。
   
-
 #### 501
-### 
-> 
+### His ambiguous reply made her all the more irritated.
+> 彼の曖昧な返事はなおさら彼女をいらいらさせた。
   
-
 #### 502
-### 
-> 
+### Bob is very timid and blushes when chatting with girls.
+> ボブはとても臆病で女の子とおしゃべりすると赤面してしまう。
   
-
 #### 503
-### 
-> 
+### Nick looks down on anyone who comes from a rural area.
+> ニックは地方出身者なら誰であろうと見下している。
   
-
 #### 504
-### 
-> 
+### "What's the matter, Bob? You look so miserable." "Leave me alone. It's none of your business."
+> 「どうしたの、ボブ？そんなに暗い顔をして。」「ほっといてくれよ。君には関係ないことだ。」
   
-
 #### 505
-### 
-> 
+### Although Bob was in disguise, I recognized him at a glance.
+> ボブは変装していたけれども、一目で彼だとわかった。
   
-
 #### 506
-### 
-> 
+### "What are you chuckling about?" "Bob, you have your sweatshirt on backwards!" "Oops!"
+> 「何をくすくす笑っているんだ？」「ボブ、トレーナーを後ろ前に着ているわよ。」「あっ！」
   
 <a name="Section042"></a>
 ## Section042
 [TOP](#TopPage)
   
 #### 507
-### 
-> 
+### He is not good at making friends and always keeps to himself.
+> 彼は友達作りが苦手で、いつも一人ぼっち（自分の殻に閉じこもる）でいる。
   
-
 #### 508
-### 
-> 
+### Having found no place he felt he belonged, he was extremely uneasy and lonely.
+> 自分が受け入れられる場所を見つけられず、彼は極度の不安と孤独に陥っていた。
   
-
 #### 509
-### 
-> 
+### I found it pretty hard to adjust to my new surroundings.
+> 新しい環境に順応するのはかなり大変なことだとわかった。
   
-
 #### 510
-### 
-> 
+### I felt utterly out of place among those sophisticated people.
+> ああいう洗練された人たちの中で、自分は全く場違いな気がした。
   
-
 #### 511
-### 
-> 
+### To tell the truth, I don't like classical music. On the other hand, Molly is really into it.
+> 正直言って私はクラシック音楽は好きじゃない。一方、モリーの方は完全にはまっている。
   
-
 #### 512
-### 
-> 
+### Bob derives pleasure from observing insects.
+> ボブは昆虫の観察に楽しみを感じている（得ている）。
   
-
 #### 513
-### 
-> 
+### "How about playing cards or something for a change?" "Sorry, I'm not up for it."
+> 「気分転換にトランプか何かしない？」「悪いけど、そういう気分じゃないよ。」
   
-
 #### 514
-### 
-> 
+### "After you." "No please, you go ahead." "Thanks." "You're welcome."
+> 「お先にどうぞ」「いや、あなたの方こそお先にどうぞ」「すみません」「どういたしまして」
   
-
 #### 515
-### 
-> 
+### His niece is sociable and mature for her age. She could pass for twenty-something.
+> 彼の姪は歳の割に社交的で大人だ。二十代と言っても通用する。
   
-
 #### 516
-### 
-> 
+### "Take care of yourself and say hi to your family for me." "I will. See you later."
+> 「じゃあね。家族のみんなによろしく。」「ああ。またね。」
   
-
 #### 517
-### 
-> 
+### I'm looking forward to hearing from you. Sincerely, ((IN A LETTER))
+> お返事いただけるのを楽しみにしております。敬具 （（手紙で））
   
 <a name="Section043"></a>
 ## Section043
 [TOP](#TopPage)
   
 #### 518
-### 
-> 
+### Can you spare a minute? I'd like to discuss something of importance to both of us.
+> ちょっと時間を割いてくれませんか？二人にとって大事なことを話し合いたいんです。
   
-
 #### 519
-### 
-> 
+### It may seem trivial to you but for me it's worth paying attention to.
+> あなたには些細なことに思えるかもしれませんが、私にとってそれは注意すべきことなんです（価値があるのです）。
   
-
 #### 520
-### 
-> 
+### As far as Bob is concerned, anything goes. By contrast, Jane is very cautious.
+> ボブについて言えば、彼はどんなことでも受け入れるタイプだが、対照的にジェーンはとても慎重だ。
   
-
 #### 521
-### 
-> 
+### After an awkward pause, Bill took her by the hand and dragged her upstairs.
+> 気まずい沈黙の後、ビルは彼女の手をとって上の階に引っ張っていった。
   
-
 #### 522
-### 
-> 
+### Bill just wanted to comfort Monica, but she interpreted it as romantic interest.
+> ビルはただモニカを慰めたかっただけなのに、彼女は彼が自分に気があるのだと（恋愛的興味がある）解釈した。
   
-
 #### 523
-### 
-> 
+### After making sure she was sound asleep, he crept out of the room and set off.
+> 彼女が熟睡しているのを確かめて、彼はこっそり部屋を抜けだして（忍び足で歩いて外に出て）旅立った。
   
-
 #### 524
-### 
-> 
+### Between you and me, Lisa, I came across Nick passionately embracing a woman.
+> ここだけの話だけど、リサ、女の人を熱く抱擁している（情熱的に強く抱きしめている）ニックを偶然見ちゃったんだ。
   
-
 #### 525
-### 
-> 
+### Such a remark is open to misunderstanding.
+> そういう発言は誤解を受けやすい。
   
-
 #### 526
-### 
-> 
+### "I can't stand it anymore!" "Calm down. I'll come over as soon as possible."
+> 「もう我慢出来ない！」「落ち着けよ。すぐそこに行くから。」
   
-
 #### 527
-### 
-> 
+### Don't take it literally. He is inclined to exaggerate.
+> そんなこと間に（文字通りに）受けちゃだめだよ。彼は大げさに言う傾向があるから。
   
-
 #### 528
-### 
-> 
+### "You should apologize to Lisa for making fun of her. You went too far this time." "Year .. I will, sometime when she's in a better mood."
+> 「リサを馬鹿にしたことを謝るべきだわ。今回はやりすぎよ。」「ああ、そうするよ。そのうち彼女の機嫌がよくなったらね。」
   
-
 #### 529
-### 
-> 
+### "Lisa, are you getting along with Nick?" "Once in a while, I think of divorcing him." "You must be kidding!"
+> 「リサ、ニックとうまくやってる？」「時々、離婚しようかと考えることがあるわ。」「冗談だろ！」
   
-
 #### 530
-### 
-> 
+### In tears, she tore up his letter and threw it away.
+> 彼女は泣きながら、彼からの手紙をめちゃくちゃに引き裂いて捨てた。
   
 <a name="Section044"></a>
 ## Section044
 [TOP](#TopPage)
   
 #### 531
-### 
-> 
+### "Jennifer deceived me!" "You should have known better than to trust her."
+> 「ジェニファーにだまされた！」「彼女を信じないぐらいの分別があってもよかったのに。」
   
-
 #### 532
-### 
-> 
+### Tom regretted having wasted a great deal of his life.
+> トムは自分の人生の多くを無駄にしてきたことを後悔した。
   
-
 #### 533
-### 
-> 
+### I cannot look back on my adolescence without feeling depressed.
+> 自分の思春期を振り返ると、いつも憂鬱な気分になる。
   
-
 #### 534
-### 
-> 
+### "Jennifer left me for another guy." "Oh, you must be upset." "Not really. I'm used to it."
+> 「ジェニファーが俺を振って他の男のところにいったよ。」「えっ、それは辛いわね（精神的に不安定）。」「そうでもないよ。慣れてるよ。」
   
-
 #### 535
-### 
-> 
+### "No wonder she didn't show up to see him off." "How come?" "They broke up." "Oh, what a pity!"
+> 「彼女が見送りに来なかったのも当然だよ。」「どうして？」「二人は別れたんだ。」「えっ、かわいそうに！」
   
-
 #### 536
-### 
-> 
+### "Living here all by myself is torture!" he sobbed.
+> 「ここで自分ひとりだけで生きていくなんて拷問だ」と彼はすすり泣きして言った。
   
-
 #### 537
-### 
-> 
+### "To be honest, I'm crazy about Ken because he's brave, self-confident, and never afraid of taking risks." "If I were you, I'd ask him out!"
+> 「正直いうと私、ケンに夢中なの（熱狂的なファン）。だって、勇敢で自分に自信を持っていて、それに危険を犯すことを決して恐れないでしょ？」「私ならデートに誘うかな。」
   
-
 #### 538
-### 
-> 
+### "I've been going with Jennifer on and off for ages." "You're as indecisive as ever. Isn't it about time you settle down?"
+> 「ずいぶん長い間、ジェニファーとは付き合ったり別れたりの繰り返しだよ。」「相変わらず優柔不断ね。そろそろ落ち着いたら（身を固めたら）どう？」
   
-
 #### 539
-### 
-> 
+### "It dawned on me that I had been taken in by Jennifer all along." "How naive! Didn't you see through her?"
+> 「ジェニファーにずっとだまされていたのがわかったよ。」「なんてうぶなの。彼女の本性が見抜けなかったの？」
   
-
 #### 540
-### 
-> 
+### Even though she is seeing someone else, I won't give her up.
+> 実際、彼女は誰かと付き合っているけれども、僕は彼女をあきらめない。
   
-
 #### 541
-### 
-> 
+### "Hi, Jane. Whats up?" "Not much. How about you?" "I got married to Jennifer." "Wow! Congratulations!"
+> 「やあ、ジェーン。最近どう？」「別に。あなたは？」「ジェニファーと結婚したんだ。」「ええっ、おめでとう！」
   
-
 #### 542
-### 
-> 
+### Whenever you're in trouble or feeling down, I'll be there for you.
+> 大変なことがあったり、落ち込んだりしたときはいつでも、私があなたのそばにいるわ。
   
-
 #### 543
-### 
-> 
+### "Delight" is the opposite of "sorrow."
+> 「喜び」は「悲しみ」の反対です。
   
-
 #### 544
-### 
-> 
+### "Jennifer went so far as to call me an idiot and she wouldn't take it back." "Serves you right! You provoked her, didn't you?"
+> 「ジェニファーは僕をバカ呼ばわりまでして、しかもそれを撤回しないんだ。」「自業自得よ！あなたからけしかけた（挑発した）んでしょう？」
   
-
 #### 545
-### 
-> 
+### "Why do you put up with her arrogance? She's just taking advantage of you." "Shut up!"
+> 「彼女の傲慢さにどうして我慢しているの？利用（悪用）されているだけよ」「うるさい！」
   
-
 #### 546
-### 
-> 
+### Take your time. I know you need a couple of days to reflect on it.
+> 慌てなくていいですよ。そのことをじっくり考えるには2,3日必要でしょうから。
   
-
 #### 547
-### 
-> 
+### Bob has to get through this ordeal on his own.
+> ボブは自分の力でこの厳しい試練を乗り切らなければいけない。
   
 <a name="Section045"></a>
 ## Section045
 [TOP](#TopPage)
   
 #### 548
-### 
-> 
+### Flies and mosquitoes interfered with his meditation.
+> ハエと蚊が彼の瞑想の邪魔をした。
   
-
 #### 549
-### 
-> 
+### The sacred ritual took place after being postponed twice.
+> 二度の延期の後、その神聖な儀式は執り行なわれた。
   
-
 #### 550
-### 
-> 
+### All at once, the Buddhist priest burst into laughter, spoiling the solemn atmosphere.
+> お坊さんが突然大声で笑い出し、厳粛な雰囲気を台無しにした。
   
-
 #### 551
-### 
-> 
+### Cover your mouth when you cough, sneeze, or yawn.
+> 咳、くしゃみ、あくびをするときは口を手で隠しなさい。
   
-
 #### 552
-### 
-> 
+### "One of her relatives passed away three days ago." "Oh, that's too bad. I'm so sorry."
+> 「彼女の親戚が3日前に亡くなったんだ。」「え、それは大変ね。お気の毒だわ。」
   
-
 #### 553
-### 
-> 
+### Besides attending the funeral, she needs to make all the arrangements.
+> 彼女は葬儀に参列するだけでなく、すべての段取りを付けなければならない。
   
-
 #### 554
-### 
-> 
+### "I feel for you, Jane. Grief doesn't fade away quickly." "I'm OK. I'll get over it."
+> 「ジェーン、気持ちは分かるよ。悲しみはすぐに消えるものじゃない。」「大丈夫、乗り越えてみせるわ（克服する）」
   
-
 #### 555
-### 
-> 
+### She cherishes the precious memories of her childhood.
+> 彼女は子供の頃のかけがえのない（大切な）思い出を大切にしている。
   
-
 #### 556
-### 
-> 
+### "Speaking of Jennifer, she got engaged to a businessman." "I'm at a loss for words! I hope she won't break it off."
+> 「ジェニファーといえば、彼女、実業家と婚約したんだよ。」「あきれてものが言えないわ。破談にならなきゃいいけどね。」
   
-
 #### 557
-### 
-> 
+### These days, the motives for marriage are not necessarily pure. Take Jennifer for example.
+> 近頃では、結婚の動機は必ずしも純粋とは限らない。例えば、ジェニファーを見てごらんよ。
   
-
 #### 558
-### 
-> 
+### Go easy on Bob. You know, he's been going through a rough period recently.
+> ボブには優しく接してあげてくれよ。ほら、彼は最近ずっと辛いこと続きなんだ。
   
-
 #### 559
-### 
-> 
+### "By the way, do you have the time?" "Let's see .. It's a quarter to eight."
+> 「ところで、今何時？」「えーと、8時15分前だよ。」
   
-
 #### 560
-### 
-> 
+### "Let's call it a day, Bob. I'm starved." "Yep. I'll buy you dinner."
+> 「ボブ、今日はこの辺までにしましょう。お腹がペコペコ。」「ああ。晩飯は僕がおごるよ。」
